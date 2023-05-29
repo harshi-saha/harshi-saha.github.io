@@ -1,11 +1,23 @@
 ---
-permalink: /markdown/
-title: "Markdown"
+permalink: /More/
+title: "More about me"
 author_profile: true
 redirect_from: 
   - /md/
-  - /markdown.html
+  - /more.html
 ---
+
+## Languages
+
+---
+
+## Music
+
+--
+
+## Books
+
+--
 
 ## Locations of key files/directories
 
