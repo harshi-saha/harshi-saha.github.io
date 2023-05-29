@@ -15,10 +15,10 @@ redirect_from:
 
 ---
 
-* B.S. in Bioinformatics w/ Data Science minor
-  * University of California San Diego
-  * 2020 - 2024 (expected)
-  * 3.96/4.00 
+Degree: B.S. in Bioinformatics w/ Data Science minor
+School: University of California San Diego
+Duration: 2020 - 2024 (expected)
+GPA: 3.96/4.00 
 
 ---
 
@@ -43,5 +43,13 @@ redirect_from:
 **Service and leadership**
 
 ---
+
+Title: Lead Youth Ambassador and Volunteer \
+Organization: Save The Child Foundation [\[link\]](https://www.savethechild.org/) \
+Location: Frisco, TX	\
+Duration: July 2016 – July 2020 \
+
+
+
 
 ---
