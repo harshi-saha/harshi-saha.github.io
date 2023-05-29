@@ -14,7 +14,7 @@ Teaching has been a big part of my Undergraduate experience at UCSD. My initial 
 
 Although this still holds true, being an IA has also led to a lot of friendships, amazing professional experiences, and has furthered my love for Data Science. Being an IA has partly fueled my desire to pursue an M.S. in Data Science, and my only regret would be that I did not start working as an IA sooner. 
 
-I have had the wonderful opportunity to work with Lecturers Janine Tiefenbruck [\[link\]](https://datascience.ucsd.edu/people/janine-tiefenbruck/) and Suraj Rampure [\[link\]](https://rampure.org/) as part of the courses listed below.
+I have had the wonderful opportunity to work with Lecturers [Janine Tiefenbruck](https://datascience.ucsd.edu/people/janine-tiefenbruck/) and [Suraj Rampure](https://rampure.org/) as part of the courses listed below.
 
 ---
 
