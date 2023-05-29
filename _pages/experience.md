@@ -22,27 +22,50 @@ redirect_from:
 
 ---
 
-**Work experience**
-
----
- 
----
-
 **Skills**
 
 ---
 
 ---
 
-**Teaching**
+**Work experience**
 
 ---
  
----
 
-**Service and leadership**
 
 ---
+
+---
+
+**Projects**
+
+---
+
+
+**Title:** Independent Bioengineering Research \
+**Organization:** Synopsys [\[link\]](https://science-fair.org/database/project_awards.php?schoolname=Monta+Vista+High+School&school_year=1617&school_year=1617) \
+**Location:** Cupertino, CA	\
+**Duration:** Aug 2016 – May 2017
+  * Devised a project to dissolve blood clots non-invasively and locally using vibrational frequencies.
+  * Engaged in experimental design, data collection and analysis, documentation, and hypothesis testing. 
+  * Reviewed peer proposal abstracts, scientific reports, data analysis, and experimental setup.
+  * Entered project in the Synopsys Championship and won an award from Varian Medical Systems.
+
+---
+
+**Service and Leadership**
+
+---
+
+**Title:** Biology Teaching Assistant \
+**Organization:** Monta Vista High School [\[link\]](https://mvhs.fuhsd.org/) \
+**Location:** Cupertino, CA	\
+**Duration:** Aug 2017 – July 2020 
+  * Worked with teachers to instruct **62 students**, including native speakers of English and ESL students.
+  * Independently ran animal dissection labs and taught relevant physiology and anatomy. 
+  * Helped design and facilitate labs focused on microbiology, molecular biology, evolution, and chemistry.
+  * Created and graded assignments, proctored exams, and **taught lectures** in the absence of the teacher.
 
 **Title:** Lead Youth Ambassador and Volunteer \
 **Organization:** Save The Child Foundation [\[link\]](https://www.savethechild.org/) \
@@ -52,7 +75,6 @@ redirect_from:
   * Helped raise **two million dollars** for sustainability and female health and education initiatives in India.
   * Volunteered in India at homes for children with special needs, young orphans, and rape victims.
   * Received two gold Presidential Volunteer Service awards for over **400 hours** of volunteer work.
-\
 
 **Title:** SBS Tutor \
 **Organization:** MVHS SBS [\[link\]](https://mvhs.fuhsd.org/academics/programs/study-buddy-tutoring) \
