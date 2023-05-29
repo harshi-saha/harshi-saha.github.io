@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "Resume"
-    url: /publications/
+    url: /resume/
     
   - title: "Experience"
     url: /cv/
