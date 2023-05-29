@@ -39,8 +39,8 @@ Unofficial Academic Transcript [\[link\]]()
 ---
 
 - BIMM 100: Molecular Biology [\[link\]](https://catalog.ucsd.edu/courses/BIOL.html#bimm100)
-- BICD 140: Immunology [\[link\]](https://catalog.ucsd.edu/courses/MATH.html#bicd140)
-- BICD 100: Genetics [\[link\]](https://catalog.ucsd.edu/courses/MATH.html#bicd100)
+- BICD 140: Immunology [\[link\]](https://catalog.ucsd.edu/courses/BIOL.html#bicd140)
+- BICD 100: Genetics [\[link\]](https://catalog.ucsd.edu/courses/BIOL.html#bicd100)
 
 ---
 
