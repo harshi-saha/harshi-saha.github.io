@@ -3,10 +3,10 @@ main:
   - title: "Resume"
     url: /publications/
     
-  - title: "CV"
+  - title: "Experience"
     url: /cv/
     
-  - title: "Talks"
+  - title: "Academics"
     url: /talks/    
 
   - title: "Teaching"
