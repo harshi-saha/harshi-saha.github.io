@@ -43,4 +43,5 @@ Teaching
 Service and leadership
 ======
 * **July 2016 – July 2020: Lead Youth Ambassador and Volunteer**
+ 
   Save The Child Foundation [\[link\]](https://www.savethechild.org/) | Frisco, TX	  
