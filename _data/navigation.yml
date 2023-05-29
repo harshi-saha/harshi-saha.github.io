@@ -4,7 +4,7 @@ main:
     url: /resume/
     
   - title: "Experience"
-    url: /cv/
+    url: /experience/
     
   - title: "Coursework"
     url: /coursework/    
@@ -12,8 +12,8 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Projects"
+    url: /projects/
     
   - title: "More"
     url: /more/
