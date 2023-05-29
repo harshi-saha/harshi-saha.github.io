@@ -6,6 +6,7 @@ author_profile: true
 
 ---
 
+
 **University of California San Diego**
 
 **B.S. Bioinformatics w/ Data Science minor** 
@@ -13,6 +14,10 @@ author_profile: true
 **GPA: 3.96/4.00**
 
 **Duration: 2020 - 2024**
+
+---
+
+Unofficial Academic Transcript \[link\]()
 
 ---
 
