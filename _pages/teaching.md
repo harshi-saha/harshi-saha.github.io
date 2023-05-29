@@ -6,7 +6,7 @@ author_profile: true
 
 ---
 
-All my teaching experiences listed below are for courses offered at UCSD, under employment by the Halıcıoğlu Data Science Institute.
+All experiences listed below are for courses offered at UCSD, under employment by the Halıcıoğlu Data Science Institute.
 
 ---
 
@@ -14,14 +14,14 @@ Teaching has been a big part of my Undergraduate experience at UCSD. My initial 
 
 Although this still holds true, being an IA has also led to a lot of friendships, amazing professional experiences, and has furthered my love for Data Science. Being an IA has partly fueled my desire to pursue an M.S. in Data Science, and my only regret would be that I did not start working as an IA sooner. 
 
-I have had the wonderful opportunity to work with Lecturers [Janine Tiefenbruck](https://datascience.ucsd.edu/people/janine-tiefenbruck/) and [Suraj Rampure](https://rampure.org/) as part of the courses listed below.
+I have had the wonderful opportunity to work with Lecturers Janine Tiefenbruck [\[link\]](https://datascience.ucsd.edu/people/janine-tiefenbruck/) and Suraj Rampure [\[link\]](https://rampure.org/) as part of the courses listed below.
 
 ---
 
 **DSC 40A - Theoretical Foundations of Data Science I:**
 
 - Quarters: 
-  -  Spring 2023 [\[link\]](https://dsc-courses.github.io/dsc40a-2023-sp/)
+  -  Spring 2023 [\[course website\]](https://dsc-courses.github.io/dsc40a-2023-sp/)
   
 - Course Description [\[link\]](https://catalog.ucsd.edu/courses/DSC.html#dsc40a):
 
@@ -40,8 +40,8 @@ I have had the wonderful opportunity to work with Lecturers [Janine Tiefenbruck]
 **DSC 10 - Principles of Data Science:**
 
 - Quarters: 
-  -  Winter 2023 [\[link\]](https://dsc-courses.github.io/dsc10-2023-wi/)
-  -  Fall 2022 [\[link\]](https://dsc-courses.github.io/dsc10-2022-fa/)
+  -  Winter 2023 [\[course website\]](https://dsc-courses.github.io/dsc10-2023-wi/)
+  -  Fall 2022 [\[course website\]](https://dsc-courses.github.io/dsc10-2022-fa/)
   
 - Course Description [\[link\]](https://catalog.ucsd.edu/courses/DSC.html#dsc10):
 
