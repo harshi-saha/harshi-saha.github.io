@@ -24,7 +24,4 @@ In addition, I like to sing and compose music, and I have also been creating a p
 
 ---
 
-## Books
-
----
 
