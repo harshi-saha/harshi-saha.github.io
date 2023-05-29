@@ -1,9 +1,8 @@
 ---
-permalink: /More/
+permalink: /more/
 title: "More about me"
 author_profile: true
 redirect_from: 
-  - /md/
   - /more.html
 ---
 
