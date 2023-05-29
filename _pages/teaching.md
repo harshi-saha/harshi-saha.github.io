@@ -6,6 +6,16 @@ author_profile: true
 
 ---
 
+All my teaching experiences listed below are for courses offered at UCSD, under employment by the Halıcıoğlu Data Science Institute.
+
+---
+
+Teaching has been a big part of my Undergraduate experience at UCSD. My initial motivation for being an Instructional Assistant for the Data Science department was that, as a minor in Data Science, I wanted to make sure that I had strong foundations in Data Science, and teaching has always been a way for me to understand subject matter better.
+
+Although this still holds true, being an IA has also led to a lot of friendships, amazing professional experiences, and has furthered my love for Data Science. Being an IA has partly fueled my desire to pursue an M.S. in Data Science, and my only regret would be that I did not start working as an IA sooner. 
+
+I have had the wonderful opportunity to work with Lecturers [Janine Tiefenbruck](https://datascience.ucsd.edu/people/janine-tiefenbruck/) and [Suraj Rampure](https://rampure.org/) as part of the courses listed below.
+
 ---
 
 **DSC 40A - Theoretical Foundations of Data Science I:**
