@@ -10,7 +10,7 @@ redirect_from:
 
 Because my parents are from different cultures, and because I was raised in both India and America, learning languages has been central to my personal life. 
 
-In addition to my first language of English, I am fluent in Hindi, Telugu, and Bengali. I also learnt Spanish in high school and continue to practice it, and am now moving on to learning Korean as well.
+In addition to my first language of English, I am fluent in Hindi, Telugu, and Bengali. I also learnt Spanish in high school and continue to practice it, and am now moving on to learning Korean.
 
 ---
 
