@@ -43,15 +43,6 @@ redirect_from:
 ---
 
 
-**Title:** Independent Bioengineering Research \
-**Organization:** Synopsys [\[link\]](https://science-fair.org/database/project_awards.php?schoolname=Monta+Vista+High+School&school_year=1617&school_year=1617) \
-**Location:** Cupertino, CA	\
-**Duration:** Aug 2016 – May 2017
-  * Devised a project to dissolve blood clots non-invasively and locally using vibrational frequencies.
-  * Engaged in experimental design, data collection and analysis, documentation, and hypothesis testing. 
-  * Reviewed peer proposal abstracts, scientific reports, data analysis, and experimental setup.
-  * Entered project in the Synopsys Championship and won an award from Varian Medical Systems.
-
 ---
 
 **Service and Leadership**
@@ -75,12 +66,5 @@ redirect_from:
   * Independently ran animal dissection labs and taught relevant physiology and anatomy. 
   * Helped design and facilitate labs focused on microbiology, molecular biology, evolution, and chemistry.
   * Created and graded assignments, proctored exams, and **taught lectures** in the absence of the teacher.
-
-**Title:** SBS Tutor \
-**Organization:** MVHS SBS [\[link\]](https://mvhs.fuhsd.org/academics/programs/study-buddy-tutoring) \
-**Location:** Cupertino, CA	\
-**Duration:** Aug 2017 – Dec 2017
-  * Provided one-on-one tutoring for ESL students, and students that did not have passing grades.
-  * Tutored English, Math, and Biology. Created study plans, and helped students with assignments and course material 
 
 ---
