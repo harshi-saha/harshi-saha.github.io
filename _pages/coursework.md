@@ -24,18 +24,18 @@ author_profile: true
 - CSE 101
 - CSE 100
 
-
+\
 
 - MATH 183
 - MATH 189
 
-
+\
 
 - BIMM 100
 - BICD 140
 - BICD 100
 
-
+\
 
 - BENG 183
 
@@ -49,11 +49,11 @@ author_profile: true
 - CSE 12
 - CSE 11
 
-
+\
 
 - ECE 15
 
-
+\
 
 - DSC 80
 - DSC 40B
