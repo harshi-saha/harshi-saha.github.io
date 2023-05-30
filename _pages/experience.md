@@ -26,17 +26,11 @@ redirect_from:
 
 ---
 
-**Languages:**
+**Languages:** Python  \|  Java  \|   R  \|  Bash  \|  SQL  \|  C++  \|  C \|  MATLAB  \|  HTML  
 
-Python  \|  Java  \|   R  \|  Bash  \|  SQL  \|  C++  \|  C \|  MATLAB  \|  HTML  
+**Tools:** Git \| Jupyter \| API \| HPC \| Microsoft Power BI \| Microsoft Office
 
-**Tools:**
-
-Git \| Jupyter \| API \| HPC \| Microsoft Power BI \| Microsoft Office
-
-**Packages:**
-
-pandas \| numpy \| scipy \| scikit-learn \| nltk \| seaborn \| matplotlib \| and more!
+**Packages:** pandas \| numpy \| scipy \| scikit-learn \| nltk \| seaborn \| matplotlib \| and more!
 
 
 ---
