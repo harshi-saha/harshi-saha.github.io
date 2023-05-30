@@ -43,7 +43,7 @@ redirect_from:
 **Organization:** UCSD - Halıcıoğlu Data Science Institute [\[link\]](https://datascience.ucsd.edu/) \
 **Location:** San Diego, CA	\
 **Duration:** Sep 2022 – Present
-  * Assisted students by applying an understanding of python, data science, and **statistical data analysis**.
+  * Assisted students by applying an understanding of **python**, **data science**, and **statistical data analysis**.
   * Tutored for topics including **regression**, **hypothesis testing** using **bootstrapping**, and **A/B testing**. 
   * Generated datasets and worked with staff to curate course materials via **JupyterHub** and **GitHub**.
   * Helped students with coursework through weekly office hours, in group and individual settings.
@@ -66,7 +66,20 @@ redirect_from:
 
 ---
 
+**Title:** Recipe interaction and rating prediction [\[link\]](/files/food-com-project.pdf) \
+**Duration:** Nov 2022 – Dec 2022
+  * Predicted interaction and rating given a user-recipe-id pair, using **880,000 data points** from Food.com.
+  * Conducted **EDA**, **feature engineering**, and made models combining heuristics, **regression**, and **NLP**.
+  * Prediction accuracy **0.977** and **0.711** compared to baseline 0.473 for interaction and rating respectively.
+  * Utilized python and tools including pandas, numpy, scipy, sklearn, nltk, seaborn, and matplotlib.
+<br/><br/>
 
+**Title:** Phylogenetic analysis of Malarial strains [\[link\]](/files/phylogenetics-project.pdf) \
+**Duration:** May 2022 – June 2022 
+  * Wrote a custom phylogenetic analysis pipeline for 25 strains of plasmodium using **Bash** and **Python**.
+  * Used **web scraping** and packages such as ClustalW and RaxML to generate several phylogenetic trees. 
+  * Made multiple pipelines to identify used software and parameters, unspecified in research papers.
+  * Recreated research paper outcomes and identified limitations and challenges of the pipeline used.
 
 ---
 
