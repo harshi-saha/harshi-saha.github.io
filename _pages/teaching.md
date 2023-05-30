@@ -24,10 +24,10 @@ I have had the wonderful opportunity to work with Lecturers [Janine Tiefenbruck]
 
 **DSC 40A - Theoretical Foundations of Data Science I:**
 
-- Quarters: 
+- **Quarters:**
   -  Spring 2023 [\[course website\]](https://dsc-courses.github.io/dsc40a-2023-sp/)
   
-- Course Description [\[link\]](https://catalog.ucsd.edu/courses/DSC.html#dsc40a):
+- **Course Description** [\[link\]](https://catalog.ucsd.edu/courses/DSC.html#dsc40a)**:**
 
   This course, the first of a two-course sequence (DSC 40A-B), will introduce the 
   theoretical foundations of data science. 
@@ -43,11 +43,11 @@ I have had the wonderful opportunity to work with Lecturers [Janine Tiefenbruck]
 
 **DSC 10 - Principles of Data Science:**
 
-- Quarters: 
+- **Quarters:**
   -  Winter 2023 [\[course website\]](https://dsc-courses.github.io/dsc10-2023-wi/)
   -  Fall 2022 [\[course website\]](https://dsc-courses.github.io/dsc10-2022-fa/)
   
-- Course Description [\[link\]](https://catalog.ucsd.edu/courses/DSC.html#dsc10):
+- **Course Description** [\[link\]](https://catalog.ucsd.edu/courses/DSC.html#dsc10)**:**
 
   This introductory course develops computational thinking and tools necessary 
   to answer questions that arise from large-scale datasets. 
