@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Harshi Saha"
-  avatar           : "profile.jpeg"
+  avatar           : "centered_profile.png"
   bio              : "Bioinformatics + Data Science student @ UCSD"
   location         : "San Diego, CA"
   employer         :
