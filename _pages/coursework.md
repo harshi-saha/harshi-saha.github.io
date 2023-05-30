@@ -19,6 +19,8 @@ author_profile: true
 
 Unofficial Academic Transcript [\[link\]]()
 
+**Note:** 🔨 This file was last updated on 05/29/2023.\
+
 ---
 
 **Relevant Upper Division Coursework:**
