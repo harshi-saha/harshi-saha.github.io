@@ -17,9 +17,7 @@ I hope to pursue an M.S. in Data Science after I graduate.
 
 ---
 
-**Note:**
-
-This website was last updated on 05/29/2023
+**Note:** This website was last updated on 05/29/2023
 
 ---
 
