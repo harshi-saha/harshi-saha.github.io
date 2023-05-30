@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "👋 Hello there, I'm Harshi!"
+title: "About"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -11,6 +11,8 @@ redirect_from:
 {% include base_path %}
 
 ---
+
+👋 Hello there, I'm Harshi!
 
 I am a 3rd year Undergraduate student at the University of California San Diego, majoring in Bioinformatics and minoring in Data Science.
 
