@@ -10,9 +10,33 @@ author_profile: true
 
 ---
 
-A list of all the pages and links found on this site. For you robots out there is an [XML version]({{ base_path }}/sitemap.xml) available for digesting as well.
+A list of all the pages and information found on this site. 
 
-<h2>Pages</h2>
-{% for post in site.pages %}
-  {% include archive-single.html %}
-{% endfor %}
+[Homepage](https://harshi-saha.github.io//)
+  * Contains 'about me'
+
+[Resume](https://harshi-saha.github.io//resume/)
+  * Contains Resume
+  * Contains CV
+ 
+[Experience](https://harshi-saha.github.io//experience/)
+  * Contains Education
+  * Contains Skills
+  * Contains Work experience
+  * Contains Projects
+  * Contains Service and Leadership
+
+[Coursework](https://harshi-saha.github.io//coursework/)
+  * Contains Unofficial Transcript
+  * Contains relevant coursework
+
+[Teaching](https://harshi-saha.github.io//teaching/)
+  * Contains DSC 10 IA
+  * Contains DSC 40A IA
+ 
+[More](https://harshi-saha.github.io//more/)
+  * Contains 'more about me'
+
+
+
+
