@@ -6,6 +6,10 @@ redirect_from:
   - /more.html
 ---
 
+{% include base_path %}
+
+---
+
 ## Languages
 
 Because my parents are from different cultures, and because I spent large part of my childhood in India even though I was born in America, learning languages has been central to my personal life. 
