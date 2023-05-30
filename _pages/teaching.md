@@ -10,7 +10,7 @@ author_profile: true
 
 ---
 
-**All experiences listed below are for courses offered at UCSD, under employment by the [Halıcıoğlu Data Science Institute](https://datascience.ucsd.edu/).**
+All experiences listed below are for courses offered at UCSD, under employment by the [Halıcıoğlu Data Science Institute](https://datascience.ucsd.edu/).
 
 ---
 
