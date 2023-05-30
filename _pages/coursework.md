@@ -17,7 +17,7 @@ author_profile: true
 
 ---
 
-Unofficial Academic Transcript [\[link\]](/_files/academichistoryreviewpdf.pdf)
+Unofficial Academic Transcript [\[link\]](/files/academichistoryreviewpdf.pdf)
 
 **Note:** 🔨 This file was last updated on 05/29/2023.
 
