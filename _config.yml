@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Harshi Saha"
+title                    : "Harshi Saha      "
 title_separator          : "-"
 name                     : &name "Harshi Saha"
 description              : &description "Bioinformatics + Data Science student @ UCSD"
