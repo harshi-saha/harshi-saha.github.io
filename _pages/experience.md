@@ -47,7 +47,7 @@ redirect_from:
   * Tutored for topics including **regression**, **hypothesis testing** using **bootstrapping**, and **A/B testing**. 
   * Generated datasets and worked with staff to curate course materials via **JupyterHub** and **GitHub**.
   * Helped students with coursework through weekly office hours, in group and individual settings.
-
+<br/><br/>
 
 **Title:** Data Science Intern \
 **Organization:** Infometry Inc. [\[link\]](https://www.infometry.net/) \
@@ -82,7 +82,8 @@ redirect_from:
   * Helped raise **two million dollars** for sustainability and female health and education initiatives in India.
   * Volunteered in India at homes for children with special needs, young orphans, and rape victims.
   * Received two gold Presidential Volunteer Service awards for over **400 hours** of volunteer work.
-  
+<br/><br/>
+
 **Title:** Biology Teaching Assistant \
 **Organization:** Monta Vista High School [\[link\]](https://mvhs.fuhsd.org/) \
 **Location:** Cupertino, CA	\
