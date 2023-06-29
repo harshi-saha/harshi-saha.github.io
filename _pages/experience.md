@@ -38,6 +38,17 @@ redirect_from:
 **Work experience**
 
 ---
+**Title:** Data Engineering Intern \
+**Organization:** Infometry Inc. [\[link\]](https://www.infometry.net/) \
+**Location:** Fremont, CA	\
+**Duration:** June 2022 – Present
+<br/><br/>
+
+**Title:** Bioinformatics Research Assistant \
+**Organization:** Rana Lab [\[link\]](https://ranalab.ucsd.edu/) \
+**Location:** San Diego, CA	\
+**Duration:** Jan 2023 – Present
+<br/><br/>
 
 **Title:** Data Science Instructional Assistant \
 **Organization:** UCSD - Halıcıoğlu Data Science Institute [\[link\]](https://datascience.ucsd.edu/) \
@@ -57,9 +68,7 @@ redirect_from:
   * Gained experience with **SQL** and **Power BI**, as well as with **multidimensional data models**.
   * Conducted **data analysis** by extracting, cleaning, and manipulating data to provide relevant insights.
   * Helped fellow interns understand data science through presentations and analysis of business cases.
-
----
-
+    
 ---
 
 **Projects**
