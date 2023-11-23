@@ -26,9 +26,9 @@ redirect_from:
 
 ---
 
-**Languages:** Python  \|  Java  \|   R  \|  Bash  \|  SQL  \|  C++  \|  C \|  MATLAB  \|  HTML  
+**Languages:** Python  \|  SQL  \|   R  \|  Java  \|  JavaScript  \|  Bash  \|  C++  \|  C \|  MATLAB  \|  HTML  
 
-**Tools:** Git \| Jupyter \| API \| HPC \| Microsoft Power BI \| Microsoft Office
+**Tools:** Git \| Jupyter \| HPC \| Snowflake \| Microsoft Power BI \| Microsoft Office
 
 **Packages:** pandas \| numpy \| scipy \| scikit-learn \| nltk \| seaborn \| matplotlib \| and more!
 
@@ -38,16 +38,16 @@ redirect_from:
 **Work experience**
 
 ---
-**Title:** Data Engineering Intern \
-**Organization:** Infometry Inc. [\[link\]](https://www.infometry.net/) \
-**Location:** Fremont, CA	\
-**Duration:** June 2022 – Present
-<br/><br/>
 
 **Title:** Bioinformatics Research Assistant \
 **Organization:** Rana Lab [\[link\]](https://ranalab.ucsd.edu/) \
 **Location:** San Diego, CA	\
 **Duration:** Jan 2023 – Present
+  * Developed **scRNA-seq**, **Bulk RNA-Seq**, and **visualization** pipelines for immunology applications.
+  * Developed pipelines in **Python** and **R** to analyze immune responses to **novel mRNA vaccines**.
+  * Pipelines conducted immune cell **clustering**, type **labeling**, and **differential expression** analysis.
+  * Optimized pipelines for automated execution on the Triton Shared Computing Cluster **HPC** system.
+
 <br/><br/>
 
 **Title:** Data Science Instructional Assistant \
@@ -60,12 +60,23 @@ redirect_from:
   * Helped students with coursework through weekly office hours, in group and individual settings.
 <br/><br/>
 
+**Title:** Data Engineering Intern \
+**Organization:** Infometry Inc. [\[link\]](https://www.infometry.net/) \
+**Location:** Fremont, CA	\
+**Duration:** June 2023 – Oct 2023
+  * Created **Snowflake stored procedures** using **SQL**, **Python**, and **JS** to automate **ELT** workflows. 
+  * Created pipelines using **Python** to clean and load data into Snowflake from local **Postgres** databases.
+  * Conducted **ad-hoc data** analysis using **Python** and **SQL** to provide relevant business insights.
+  * Identified critical **KPIs**, metrics, and **visualization** methods based on client data collection practices. 
+
+<br/><br/>
+
 **Title:** Data Science Intern \
 **Organization:** Infometry Inc. [\[link\]](https://www.infometry.net/) \
 **Location:** Fremont, CA	\
-**Duration:** May 2020 – Aug 2020 
+**Duration:** May 2020 – Sep 2020 
   * Learned the basics of **data science** and **business intelligence** through sample data and case studies.
-  * Gained experience with **SQL** and **Power BI**, as well as with **multidimensional data models**.
+  * Gained experience with **SQL** and **Power BI**, as well as with **database schematics**.
   * Conducted **data analysis** by extracting, cleaning, and manipulating data to provide relevant insights.
   * Helped fellow interns understand data science through presentations and analysis of business cases.
     
