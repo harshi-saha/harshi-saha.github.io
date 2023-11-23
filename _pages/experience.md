@@ -47,7 +47,6 @@ redirect_from:
   * Developed pipelines in **Python** and **R** to analyze immune responses to **novel mRNA vaccines**.
   * Pipelines conducted immune cell **clustering**, type **labeling**, and **differential expression** analysis.
   * Optimized pipelines for automated execution on the Triton Shared Computing Cluster **HPC** system.
-
 <br/><br/>
 
 **Title:** Data Science Instructional Assistant \
@@ -68,7 +67,6 @@ redirect_from:
   * Created pipelines using **Python** to clean and load data into Snowflake from local **Postgres** databases.
   * Conducted **ad-hoc data** analysis using **Python** and **SQL** to provide relevant business insights.
   * Identified critical **KPIs**, metrics, and **visualization** methods based on client data collection practices. 
-
 <br/><br/>
 
 **Title:** Data Science Intern \
