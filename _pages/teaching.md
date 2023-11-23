@@ -44,6 +44,7 @@ I have had the wonderful opportunity to work with Lecturers [Janine Tiefenbruck]
 **DSC 10 - Principles of Data Science:**
 
 - **Quarters:**
+  -  Fall 2023 [\[course website\]](https://dsc-courses.github.io/dsc10-2023-fa/)
   -  Winter 2023 [\[course website\]](https://dsc-courses.github.io/dsc10-2023-wi/)
   -  Fall 2022 [\[course website\]](https://dsc-courses.github.io/dsc10-2022-fa/)
   
