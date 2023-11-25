@@ -23,7 +23,7 @@ I hope to pursue an M.S. in Data Science or Computational Biology after I gradua
 
 ---
 
-**Note:** 🔨 This website was last updated on 05/29/2023.\
+**Note:** 🔨 This website was last updated on 11/25/2023.\
 **Note:** 👷 This website is still under construction.
 
 ---
