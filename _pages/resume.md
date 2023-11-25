@@ -10,12 +10,12 @@ author_profile: true
 
 ---
 
-Resume [\[link\]]()
+Resume [\[link\]](/files/resume-harshi-saha.pdf)
 
-CV [\[link\]]()
+CV [\[to be added!\]]()
 
 ---
 
-**Note:** 🔨 These files were last updated on 05/29/2023.
+**Note:** 🔨 These files were last updated on 11/25/2023.
 
 ---
