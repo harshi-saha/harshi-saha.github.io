@@ -43,10 +43,10 @@ redirect_from:
 **Organization:** Rana Lab [\[link\]](https://ranalab.ucsd.edu/) \
 **Location:** San Diego, CA	\
 **Duration:** Jan 2023 – Present
-  * Developed **scRNA-seq**, **Bulk RNA-Seq**, and **visualization** pipelines for immunology applications.
-  * Developed pipelines in **Python** and **R** to analyze immune responses to **novel mRNA vaccines**.
-  * Pipelines conducted immune cell **clustering**, type **labeling**, and **differential expression** analysis.
-  * Optimized pipelines for automated execution on the Triton Shared Computing Cluster **HPC** system.
+   * Developed scRNA-seq, Bulk RNA-Seq, and visualization pipelines for immunology applications.
+   * Developed, optimized, and automated pipelines in Python and R to analyze responses to treatments.
+   * Pipelines conducted immune cell clustering, type labeling, and differential expression analysis.
+   * Identified novel COVID-19 mRNA vaccines that increased immune cell diversity and population.
 <br/><br/>
 
 **Title:** Data Science Instructional Assistant \
@@ -83,6 +83,14 @@ redirect_from:
 **Projects**
 
 ---
+
+**Title:** Computational Drug Discovery for HIV [\[link\]](https://github.com/harshi-saha/bioinfo-projects/tree/main/hiv-cdd-project) \
+**Duration:**  Sep 2023 – Present
+  * Investigated compounds targeting CCR5 as part of HIV treatments using **Python** and **ChEMBLdb**.
+  * Calculated Lipinski Molecular Descriptors to indicate **bioactivity** and pIC50 to indicate **efficacy**. 
+  * Used **PaDEL** descriptors to identify properties and fingerprints of CCR5 targeting drug molecules.
+  * Developing **random forest models** to predict pIC50 and bioactivity to gauge structural efficacy.
+<br/><br/>
 
 **Title:** Recipe interaction and rating prediction [\[link\]](/files/food-com-project.pdf) \
 **Duration:** Nov 2022 – Dec 2022
