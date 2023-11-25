@@ -29,6 +29,7 @@ author_profile: true
 
 - CSE 185: Advanced Bioinformatics Laboratory [\[link\]](https://catalog.ucsd.edu/courses/CSE.html#cse185)
 - CSE 182: Biological Databases [\[link\]](https://catalog.ucsd.edu/courses/CSE.html#cse182)
+- CSE 181: Molecular Sequence Analysis [\[link\]](https://catalog.ucsd.edu/courses/CSE.html#cse181)
 - CSE 158: Recommender Systems and Web Mining [\[link\]](https://catalog.ucsd.edu/courses/CSE.html#cse158)
 - CSE 101: Design and Analysis of Algorithms [\[link\]](https://catalog.ucsd.edu/courses/CSE.html#cse101)
 - CSE 100: Advanced Data Structures [\[link\]](https://catalog.ucsd.edu/courses/CSE.html#cse100)
@@ -43,6 +44,15 @@ author_profile: true
 - BIMM 100: Molecular Biology [\[link\]](https://catalog.ucsd.edu/courses/BIOL.html#bimm100)
 - BICD 140: Immunology [\[link\]](https://catalog.ucsd.edu/courses/BIOL.html#bicd140)
 - BICD 100: Genetics [\[link\]](https://catalog.ucsd.edu/courses/BIOL.html#bicd100)
+- BIBC 100: Structural Biochemistry [\[link\]](https://catalog.ucsd.edu/courses/BIOL.html#bibc100)
+
+---
+
+- DSC 100: Intro to Data Management [\[link\]](https://catalog.ucsd.edu/courses/DSC.html#dsc100)
+
+---
+
+- SIO 123: Microbial Environmental Systems Biology [\[link\]](https://catalog.ucsd.edu/courses/SIO.html#sio123)
 
 ---
 
