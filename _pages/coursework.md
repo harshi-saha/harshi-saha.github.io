@@ -19,7 +19,7 @@ author_profile: true
 
 **Unofficial Academic Transcript** [\[link\]](/files/unofficial-transcript.pdf)
 
-**Note:** 🔨 This file was last updated on 05/29/2023.
+**Note:** 🔨 This file was last updated on 11/25/2023.
 
 ---
 
