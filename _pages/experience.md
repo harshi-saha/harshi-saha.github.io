@@ -43,10 +43,10 @@ redirect_from:
 **Organization:** Rana Lab [\[link\]](https://ranalab.ucsd.edu/) \
 **Location:** San Diego, CA	\
 **Duration:** Jan 2023 – Present
-   * Developed scRNA-seq, Bulk RNA-Seq, and visualization pipelines for immunology applications.
-   * Developed, optimized, and automated pipelines in Python and R to analyze responses to treatments.
-   * Pipelines conducted immune cell clustering, type labeling, and differential expression analysis.
-   * Identified novel COVID-19 mRNA vaccines that increased immune cell diversity and population.
+   * Developed **scRNA-seq**, **Bulk RNA-Seq**, and **visualization** pipelines for immunology applications.
+   * Developed, optimized, and automated pipelines in **Python** and **R** to analyze responses to treatments.
+   * Pipelines conducted immune cell **clustering**, type **labelin**g, and **differential expression analysis**.
+   * Identified **novel COVID-19 mRNA vaccines** that increased immune cell diversity and population.
 <br/><br/>
 
 **Title:** Data Science Instructional Assistant \
