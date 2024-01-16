@@ -22,22 +22,32 @@ I have had the wonderful opportunity to work with Lecturers [Janine Tiefenbruck]
 
 ---
 
+**DSC 80 - The Practice and Application of Data Science:**
+
+- **Quarters:**
+  -  Winter 2024 [\[course website\]](https://dsc-courses.github.io/dsc80-2024-wi/)
+  
+- **Course Description** [\[link\]](https://catalog.ucsd.edu/courses/DSC.html#dsc80)**:**
+
+  This course bridges lower- and upper-division data science courses as well as methods
+  courses in other fields. Students master the data science life-cycle and learn many of
+  the fundamental principles and techniques of data science spanning algorithms, statistics,
+  machine learning, visualization, and data systems.
+  
+---
+
 **DSC 40A - Theoretical Foundations of Data Science I:**
 
 - **Quarters:**
   -  Spring 2023 [\[course website\]](https://dsc-courses.github.io/dsc40a-2023-sp/)
   
 - **Course Description** [\[link\]](https://catalog.ucsd.edu/courses/DSC.html#dsc40a)**:**
-
-  This course, the first of a two-course sequence (DSC 40A-B), will introduce the 
-  theoretical foundations of data science. 
   
-  Students will become familiar with mathematical language for expressing data analysis 
-  problems and solution strategies, and will receive training in probabilistic reasoning, 
-  mathematical modeling of data, and algorithmic problem solving. 
-  
-  DSC 40A will introduce fundamental topics in machine learning, statistics, and 
-  linear algebra with applications to data analysis. 
+  This course introduces fundamental topics in machine learning, statistics, and 
+  linear algebra with applications to data analysis. Students will become familiar with
+  mathematical language for expressing data analysis problems and solution strategies,
+  and will receive training in probabilistic reasoning, mathematical modeling of data,
+  and algorithmic problem solving. 
  
 ---
 
@@ -51,8 +61,6 @@ I have had the wonderful opportunity to work with Lecturers [Janine Tiefenbruck]
 - **Course Description** [\[link\]](https://catalog.ucsd.edu/courses/DSC.html#dsc10)**:**
 
   This introductory course develops computational thinking and tools necessary 
-  to answer questions that arise from large-scale datasets. 
-  
-  This course emphasizes an end-to-end approach to data science, 
-  introducing programming techniques in Python that cover data processing, 
-  modeling, and analysis.
+  to answer questions that arise from large-scale datasets. This course emphasizes an
+  end-to-end approach to data science, introducing programming techniques in Python that
+  cover data processing, modeling, and analysis.
