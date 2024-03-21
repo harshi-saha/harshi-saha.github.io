@@ -39,6 +39,7 @@ I have had the wonderful opportunity to work with Lecturers [Janine Tiefenbruck]
 **DSC 40A - Theoretical Foundations of Data Science I:**
 
 - **Quarters:**
+  -  Spring 2024 [\[course website\]](https://dsc-courses.github.io/dsc40a-2024-sp/)
   -  Spring 2023 [\[course website\]](https://dsc-courses.github.io/dsc40a-2023-sp/)
   
 - **Course Description** [\[link\]](https://catalog.ucsd.edu/courses/DSC.html#dsc40a)**:**
