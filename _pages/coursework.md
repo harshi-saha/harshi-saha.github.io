@@ -36,8 +36,9 @@ author_profile: true
 
 ---
 
-- MATH 183: Statistical Methods [\[link\]](https://catalog.ucsd.edu/courses/MATH.html#math183)
-- MATH 189: Exploratory Data Analysis and Inference [\[link\]](https://catalog.ucsd.edu/courses/MATH.html#math189)
+- DSC 140A: Probabilistic Modeling and Machine Learning [\[link\]](https://catalog.ucsd.edu/courses/DSC.html#dsc140a)
+- DSC 102: Systems for Scalable Analytics [\[link\]](https://catalog.ucsd.edu/courses/DSC.html#dsc102)
+- DSC 100: Intro to Data Management [\[link\]](https://catalog.ucsd.edu/courses/DSC.html#dsc100)
 
 ---
 
@@ -45,10 +46,13 @@ author_profile: true
 - BICD 140: Immunology [\[link\]](https://catalog.ucsd.edu/courses/BIOL.html#bicd140)
 - BICD 100: Genetics [\[link\]](https://catalog.ucsd.edu/courses/BIOL.html#bicd100)
 - BIBC 100: Structural Biochemistry [\[link\]](https://catalog.ucsd.edu/courses/BIOL.html#bibc100)
+- BIEB 146: Genome Diversity and Dynamics [\[link\]](https://catalog.ucsd.edu/courses/BIOL.html#bieb146)
+- BIEB 148: Disease Ecology [\[link\]](https://catalog.ucsd.edu/courses/BIOL.html#bieb148)
+- BENG 183: Applied Genomic Technologies [\[link\]](https://catalog.ucsd.edu/courses/BENG.html#beng183)
 
 ---
 
-- DSC 100: Intro to Data Management [\[link\]](https://catalog.ucsd.edu/courses/DSC.html#dsc100)
+- PHYS 139: Intro to Biological Physics and Quantitative Biology [\[link\]](https://catalog.ucsd.edu/courses/PHYS.html#phys139)
 
 ---
 
@@ -56,7 +60,8 @@ author_profile: true
 
 ---
 
-- BENG 183: Applied Genomic Technologies [\[link\]](https://catalog.ucsd.edu/courses/BENG.html#beng183)
+- MATH 183: Statistical Methods [\[link\]](https://catalog.ucsd.edu/courses/MATH.html#math183)
+- MATH 189: Exploratory Data Analysis and Inference [\[link\]](https://catalog.ucsd.edu/courses/MATH.html#math189)
 
 ---
 
