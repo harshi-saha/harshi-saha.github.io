@@ -111,6 +111,6 @@ below.
     This course introduces key concepts in data science, exploring
     techniques such as data mining, text mining, machine learning, and
     graph theory. Students focus on methods applied by scientists and
-    companies to uncover insights into human cognition, providing a
+    companies to investigate human cognition, providing a
     foundation for understanding the intersection of data and cognitive
     research.
