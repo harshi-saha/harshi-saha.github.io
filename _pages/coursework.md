@@ -10,9 +10,38 @@ author_profile: true
 
 ---
 
+**Degree:** M.S. in Computational Biology and Quantitative Genetics \
+**School:** Harvard University \
+**Duration:** Sep. 2024 - May. 2026 \
+**GPA:** 4.00/4.00 
+
+---
+
+**Unofficial Academic Transcript** [\[link\]]()
+
+**Note:** 🔨 This file was last updated on TBA.
+
+---
+
+**Relevant Coursework:**
+
+---
+
+- BST 280: Introductory Genomics and Bioinformatics for Health Research [\[link\]](https://beta.my.harvard.edu/course/BST280/2024-Fall/1)
+- BST 267: Introduction to Social and Biological Networks [\[link\]](https://beta.my.harvard.edu/course/BST267/2024-Fall/1)
+- BST 262: Computing for Big Data [\[link\]](https://beta.my.harvard.edu/course/BST262/2024-Fall/1)
+- BST 260: Introduction to Data Science [\[link\]](https://beta.my.harvard.edu/course/BST260/2024-Fall/1)
+- BST 210: Applied Regression Analysis [\[link\]](https://beta.my.harvard.edu/course/BST210/2024-Fall/1)
+
+---
+
+- EPI 201: Epidemiologic Methods [\[link\]](https://beta.my.harvard.edu/course/EPI201/2024-Fall/1)
+
+---
+
 **Degree:** B.S. in Bioinformatics w/ Data Science minor \
 **School:** University of California San Diego \
-**Duration:** 2020 - 2024 (expected) \
+**Duration:** Sep. 2020 - Jun. 2024 \
 **GPA:** 3.96/4.00 
 
 ---
@@ -23,7 +52,7 @@ author_profile: true
 
 ---
 
-**Relevant Upper Division Coursework:**
+**Relevant Coursework:**
 
 ---
 
@@ -33,12 +62,18 @@ author_profile: true
 - CSE 158: Recommender Systems and Web Mining [\[link\]](https://catalog.ucsd.edu/courses/CSE.html#cse158)
 - CSE 101: Design and Analysis of Algorithms [\[link\]](https://catalog.ucsd.edu/courses/CSE.html#cse101)
 - CSE 100: Advanced Data Structures [\[link\]](https://catalog.ucsd.edu/courses/CSE.html#cse100)
+- CSE 21: Mathematics for Algorithms and Systems [\[link\]](https://catalog.ucsd.edu/courses/CSE.html#cse21)
+- CSE 20: Discrete Mathematics [\[link\]](https://catalog.ucsd.edu/courses/CSE.html#cse20)
+- CSE 12: Basic Data Structures and Object-Oriented Design [\[link\]](https://catalog.ucsd.edu/courses/CSE.html#cse12)
 
 ---
 
-- DSC 140A: Probabilistic Modeling and Machine Learning [\[link\]](https://catalog.ucsd.edu/courses/DSC.html#dsc140a)
-- DSC 102: Systems for Scalable Analytics [\[link\]](https://catalog.ucsd.edu/courses/DSC.html#dsc102)
 - DSC 100: Intro to Data Management [\[link\]](https://catalog.ucsd.edu/courses/DSC.html#dsc100)
+- DSC 80: The Practice and Application of Data Science [\[link\]](https://catalog.ucsd.edu/courses/DSC.html#dsc80)
+- DSC 40B: Theoretical Foundations of Data Science II [\[link\]](https://catalog.ucsd.edu/courses/DSC.html#dsc40b)
+- DSC 40A: Theoretical Foundations of Data Science I [\[link\]](https://catalog.ucsd.edu/courses/DSC.html#dsc40a)
+- DSC 20: Programming and Basic Data Structures for Data Science [\[link\]](https://catalog.ucsd.edu/courses/DSC.html#dsc20)
+- DSC 10: Principles of Data Science [\[link\]](https://catalog.ucsd.edu/courses/DSC.html#dsc10)
 
 ---
 
@@ -46,13 +81,7 @@ author_profile: true
 - BICD 140: Immunology [\[link\]](https://catalog.ucsd.edu/courses/BIOL.html#bicd140)
 - BICD 100: Genetics [\[link\]](https://catalog.ucsd.edu/courses/BIOL.html#bicd100)
 - BIBC 100: Structural Biochemistry [\[link\]](https://catalog.ucsd.edu/courses/BIOL.html#bibc100)
-- BIEB 146: Genome Diversity and Dynamics [\[link\]](https://catalog.ucsd.edu/courses/BIOL.html#bieb146)
-- BIEB 148: Disease Ecology [\[link\]](https://catalog.ucsd.edu/courses/BIOL.html#bieb148)
 - BENG 183: Applied Genomic Technologies [\[link\]](https://catalog.ucsd.edu/courses/BENG.html#beng183)
-
----
-
-- PHYS 139: Intro to Biological Physics and Quantitative Biology [\[link\]](https://catalog.ucsd.edu/courses/PHYS.html#phys139)
 
 ---
 
@@ -62,27 +91,6 @@ author_profile: true
 
 - MATH 183: Statistical Methods [\[link\]](https://catalog.ucsd.edu/courses/MATH.html#math183)
 - MATH 189: Exploratory Data Analysis and Inference [\[link\]](https://catalog.ucsd.edu/courses/MATH.html#math189)
-
----
-
-**Relevant Lower Division Coursework:**
-
----
-
-- DSC 80: The Practice and Application of Data Science [\[link\]](https://catalog.ucsd.edu/courses/DSC.html#dsc80)
-- DSC 40B: Theoretical Foundations of Data Science II [\[link\]](https://catalog.ucsd.edu/courses/DSC.html#dsc40b)
-- DSC 40A: Theoretical Foundations of Data Science I [\[link\]](https://catalog.ucsd.edu/courses/DSC.html#dsc40a)
-- DSC 20: Programming and Basic Data Structures for Data Science [\[link\]](https://catalog.ucsd.edu/courses/DSC.html#dsc20)
-- DSC 10: Principles of Data Science [\[link\]](https://catalog.ucsd.edu/courses/DSC.html#dsc10)
-
----
-
-- CSE 21: Mathematics for Algorithms and Systems [\[link\]](https://catalog.ucsd.edu/courses/CSE.html#cse21)
-- CSE 20: Discrete Mathematics [\[link\]](https://catalog.ucsd.edu/courses/CSE.html#cse20)
-- CSE 12: Basic Data Structures and Object-Oriented Design [\[link\]](https://catalog.ucsd.edu/courses/CSE.html#cse12)
-
----
-
 - MATH 20C: Calculus and Analytic Geometry for Science and Engineering [\[link\]](https://catalog.ucsd.edu/courses/MATH.html#math20c)
 - MATH 18: Linear Algebra [\[link\]](https://catalog.ucsd.edu/courses/MATH.html#math18)
 
