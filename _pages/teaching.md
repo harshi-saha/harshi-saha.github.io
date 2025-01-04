@@ -42,10 +42,10 @@ below.
 -   **Quarters:**
 
     -   Winter 2024
-        [course website](https://dsc-courses.github.io/dsc80-2024-wi/)
+        [[course website]](https://dsc-courses.github.io/dsc80-2024-wi/)
 
 -   **Course Description**
-    [link](https://catalog.ucsd.edu/courses/DSC.html#dsc80)**:**
+    [[link]](https://catalog.ucsd.edu/courses/DSC.html#dsc80)**:**
 
     This course bridges lower- and upper-division data science courses
     as well as methods in other fields. Students master the data science
@@ -60,12 +60,12 @@ below.
 -   **Quarters:**
 
     -   Spring 2024
-        [course website](https://dsc-courses.github.io/dsc40a-2024-sp/)
+        [[course website]](https://dsc-courses.github.io/dsc40a-2024-sp/)
     -   Spring 2023
-        [course website](https://dsc-courses.github.io/dsc40a-2023-sp/)
+        [[course website]](https://dsc-courses.github.io/dsc40a-2023-sp/)
 
 -   **Course Description**
-    [link](https://catalog.ucsd.edu/courses/DSC.html#dsc40a)**:**
+    [[link]](https://catalog.ucsd.edu/courses/DSC.html#dsc40a)**:**
 
     This course introduces fundamental topics in machine learning,
     statistics, and linear algebra with applications to data analysis.
@@ -81,14 +81,14 @@ below.
 -   **Quarters:**
 
     -   Fall 2023
-        [course website](https://dsc-courses.github.io/dsc10-2023-fa/)
+        [[course website]](https://dsc-courses.github.io/dsc10-2023-fa/)
     -   Winter 2023
-        [course website](https://dsc-courses.github.io/dsc10-2023-wi/)
+        [[course website]](https://dsc-courses.github.io/dsc10-2023-wi/)
     -   Fall 2022
-        [course website](https://dsc-courses.github.io/dsc10-2022-fa/)
+        [[course website]](https://dsc-courses.github.io/dsc10-2022-fa/)
 
 -   **Course Description**
-    [link](https://catalog.ucsd.edu/courses/DSC.html#dsc10)**:**
+    [[link]](https://catalog.ucsd.edu/courses/DSC.html#dsc10)**:**
 
     This introductory course develops computational thinking and tools
     necessary to answer questions that arise from large-scale datasets.
@@ -103,10 +103,10 @@ below.
 -   **Quarters:**
 
     -   Spring 2024
-        [course website](https://kshannon-ucsd.github.io/cogs9/)
+        [[course website]](https://kshannon-ucsd.github.io/cogs9/)
 
 -   **Course Description**
-    [link](https://catalog.ucsd.edu/courses/COGS.html#cogs9)**:**
+    [[link]](https://catalog.ucsd.edu/courses/COGS.html#cogs9)**:**
 
     This course introduces key concepts in data science, exploring
     techniques such as data mining, text mining, machine learning, and
