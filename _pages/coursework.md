@@ -12,18 +12,13 @@ author_profile: true
 
 **Degree:** M.S. in Computational Biology and Quantitative Genetics \
 **School:** Harvard University \
-**Duration:** Sep. 2024 - May. 2026 \
+**Duration:** Sep. 2024 - May 2026 \
 **GPA:** 4.00/4.00 
 
 ---
 
-**Unofficial Academic Transcript** [\[link\]]()
-
-**Note:** 🔨 This file was last updated on TBA.
-
----
-
 **Relevant Coursework:**
+**Note:** 🔨 This list was last updated on 01/04/2025.
 
 ---
 
@@ -43,12 +38,6 @@ author_profile: true
 **School:** University of California San Diego \
 **Duration:** Sep. 2020 - Jun. 2024 \
 **GPA:** 3.96/4.00 
-
----
-
-**Unofficial Academic Transcript** [\[link\]](/files/unofficial-transcript.pdf)
-
-**Note:** 🔨 This file was last updated on 11/25/2023.
 
 ---
 
