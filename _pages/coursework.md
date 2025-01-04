@@ -17,7 +17,7 @@ author_profile: true
 
 ---
 
-**Relevant Coursework:**
+**Relevant Coursework:** \
 **Note:** 🔨 This list was last updated on 01/04/2025.
 
 ---
