@@ -14,7 +14,7 @@ redirect_from:
 
 👋 Hello there, I'm Harshi!
 
-I am a 1st year M.S. Computational Biology and Statistical Genetics student at Harvard.\
+I am a 1st year M.S. Computational Biology and Quantitative Genetics student at Harvard.\
 I recently completed my B.S. from the University of California San Diego, majoring in Bioinformatics and minoring in Data Science.
 
 My interests lie at the intersection of data science, healthcare, and biology. More specifically, I am interested in developing algorithms and pipelines utilizing machine learning and bioinformatics, for advancements in the understanding of disease and in improving healthcare: especially in the areas of cancer immunology, virology, and drug development.
