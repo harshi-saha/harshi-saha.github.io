@@ -13,9 +13,9 @@ editor_options:
 ------------------------------------------------------------------------
 
 All experiences listed below are for courses offered at the University
-of California San Diego.\
+of California San Diego.
 The data science courses [DSC] are under employment by the [Halıcıoğlu
-Data Science Institute](https://datascience.ucsd.edu/).\
+Data Science Institute](https://datascience.ucsd.edu/).
 The cognitive science course [COGS] is under employment by the
 [Cognitive Science Department](https://cogsci.ucsd.edu/).
 
