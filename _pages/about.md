@@ -15,15 +15,16 @@ redirect_from:
 
 👋 Hello there, I'm Harshi!
 
-I am a 4th year Undergraduate student at the University of California San Diego, majoring in Bioinformatics and minoring in Data Science.
+I am a 1st year M.S. Computational Biology and Statistical Genetics student at Harvard.
+I recently completed my B.S. from the University of California San Diego, majoring in Bioinformatics and minoring in Data Science.
 
-My interests lie at the intersection of healthcare, biology, and data science. More specifically, I am interested in developing algorithms and pipelines utilizing machine learning and bioinformatics, for advancements in the understanding of disease and in improving healthcare: especially in the areas of cancer immunology, virology, and drug development.
+My interests lie at the intersection of data science, healthcare, and biology. More specifically, I am interested in developing algorithms and pipelines utilizing machine learning and bioinformatics, for advancements in the understanding of disease and in improving healthcare: especially in the areas of cancer immunology, virology, and drug development.
 
-I will be attending the M.S. in Computational Biology at Harvard once I graduate, after which I hope to pursue a PhD. 
+After the completion of my M.S. program at Harvard, I hope to either pursue a career in industry or a PhD. 
 
 ---
 
-**Note:** 🔨 This website was last updated on 11/25/2023.\
+**Note:** 🔨 This website was last updated on 01/04/2025.\
 **Note:** 👷 This website is still under construction.
 
 ---

@@ -12,9 +12,7 @@ redirect_from:
 
 ## 🗣️ Languages
 
-Because my parents are from different cultures, and because I spent large part of my childhood in India even though I was born in America, learning languages has been central to my personal life. 
-
-In addition to my first language of English, I am fluent in Hindi, Telugu, and Bengali. I also learnt Spanish in high school and continue to practice it, and am now moving on to learning Korean.
+Because my parents are from different cultures, and because I spent large part of my childhood in India even though I was born in America, learning languages has been central to my personal life. In addition to my first language of English, I am fluent in Hindi, Telugu, and Bengali. I also learnt Spanish in high school and am now moving on to learning Korean.
 
 ---
 
@@ -30,7 +28,7 @@ I have also been creating a playlist for my favorite genre citypop, attached bel
 
 ## 🌱 Plants
 
-My collection currently consists of the following plants: golden pothos, neon pothos, n'joy pothos, zanzibar gem, and orchid 10311.
+My collection currently consists of the following plants: golden pothos, neon pothos, n'joy pothos, orchid 10311, chrysanthemum 10368, plum blossom 10369, succulents 10309, and poinsettia 10370.
 
 ---
 
