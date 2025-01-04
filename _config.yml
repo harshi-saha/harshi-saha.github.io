@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Harshi Saha"
   avatar           : "centered_profile.png"
-  bio              : "Bioinformatics + Data Science student @ UCSD"
-  location         : "San Diego, CA"
+  bio              : "Computational Biology Student @ Harvard"
+  location         : "Boston, MA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "hsaha@ucsd.edu"
+  email            : "hsaha@hsph.harvard.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
