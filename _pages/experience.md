@@ -52,17 +52,19 @@ redirect_from:
 **Title:** Bioinformatics Research Assistant \
 **Organization:** Rana Lab [\[link\]](https://ranalab.ucsd.edu/) \
 **Location:** San Diego, CA	\
-**Duration:** Jan 2023 – Present
-   * Developed **scRNA-seq**, **Bulk RNA-Seq**, and **visualization** pipelines for immunology applications.
-   * Developed, optimized, and automated pipelines in **Python** and **R** to analyze responses to treatments.
-   * Pipelines conducted immune cell **clustering**, type **labelin**g, and **differential expression analysis**.
+**Duration:** Jan. 2023 – Present
+   * Designed and developed **scRNA-seq**, **Bulk RNA-Seq**, and **visualization** pipelines for immunology.
+   * Created and optimized scripts in **Python**, **R**, and **Bash** to analyze **immune responses** to treatment \
+in **cancer** and **COVID-19** via cell **clustering**, type **labeling**, and **differential expression analysis** \
    * Identified **novel COVID-19 mRNA vaccines** that increased immune cell diversity and population.
+   * Discovered novel vaccine effects on **immune cells** in the **bone marrow** and **spleen** for publication.
+   * Used packages **DESeq2**, **edgeR**, **topGO**, **clusterProfiler**, **Seurat**, **sctype**, **SoupX**, and **Harmony**.
 <br/><br/>
 
 **Title:** Data Science Instructional Assistant \
 **Organization:** UCSD - Halıcıoğlu Data Science Institute [\[link\]](https://datascience.ucsd.edu/) \
 **Location:** San Diego, CA	\
-**Duration:** Sep 2022 – Present
+**Duration:** Sep. 2022 – Present
   * Assisted students by applying an understanding of **python**, **data science**, and **statistical data analysis**.
   * Tutored for topics including **regression**, **hypothesis testing** using **bootstrapping**, and **A/B testing**. 
   * Generated datasets and worked with staff to curate course materials via **JupyterHub** and **GitHub**.
@@ -72,7 +74,7 @@ redirect_from:
 **Title:** Data Engineering Intern \
 **Organization:** Infometry Inc. [\[link\]](https://www.infometry.net/) \
 **Location:** Fremont, CA	\
-**Duration:** June 2023 – Oct 2023
+**Duration:** June 2023 – Oct. 2023
   * Created **Snowflake stored procedures** using **SQL**, **Python**, and **JS** to automate **ELT** workflows. 
   * Created pipelines using **Python** to clean and load data into Snowflake from local **Postgres** databases.
   * Conducted **ad-hoc data** analysis using **Python** and **SQL** to provide relevant business insights.
@@ -82,7 +84,7 @@ redirect_from:
 **Title:** Data Science Intern \
 **Organization:** Infometry Inc. [\[link\]](https://www.infometry.net/) \
 **Location:** Fremont, CA	\
-**Duration:** May 2020 – Sep 2020 
+**Duration:** May 2020 – Sep. 2020 
   * Learned the basics of **data science** and **business intelligence** through sample data and case studies.
   * Gained experience with **SQL** and **Power BI**, as well as with **database schematics**.
   * Conducted **data analysis** by extracting, cleaning, and manipulating data to provide relevant insights.
@@ -95,7 +97,7 @@ redirect_from:
 ---
 
 **Title:** Computational Drug Discovery for HIV [\[link\]](https://github.com/harshi-saha/bioinfo-projects/tree/main/hiv-cdd-project) \
-**Duration:**  Sep 2023 – Present
+**Duration:**  Sep. 2023 – Present
   * Investigated compounds targeting CCR5 as part of HIV treatments using **Python** and **ChEMBLdb**.
   * Calculated Lipinski Molecular Descriptors to indicate **bioactivity** and pIC50 to indicate **efficacy**. 
   * Used **PaDEL** descriptors to identify properties and fingerprints of CCR5 targeting drug molecules.
@@ -103,7 +105,7 @@ redirect_from:
 <br/><br/>
 
 **Title:** Recipe interaction and rating prediction [\[link\]](/files/food-com-project.pdf) \
-**Duration:** Nov 2022 – Dec 2022
+**Duration:** Nov. 2022 – Dec. 2022
   * Predicted interaction and rating given a user-recipe-id pair, using **880,000 data points** from Food.com.
   * Conducted **EDA**, **feature engineering**, and made models combining heuristics, **regression**, and **NLP**.
   * Prediction accuracy **0.977** and **0.711** compared to baseline 0.473 for interaction and rating respectively.
@@ -136,7 +138,7 @@ redirect_from:
 **Title:** Biology Teaching Assistant \
 **Organization:** Monta Vista High School [\[link\]](https://mvhs.fuhsd.org/) \
 **Location:** Cupertino, CA	\
-**Duration:** Aug 2017 – July 2020 
+**Duration:** Aug. 2017 – July 2020 
   * Worked with teachers to instruct **62 students**, including native speakers of English and ESL students.
   * Independently ran animal dissection labs and taught relevant physiology and anatomy. 
   * Helped design and facilitate labs focused on microbiology, molecular biology, evolution, and chemistry.
@@ -148,6 +150,6 @@ redirect_from:
 
 ---
 
-\[May 2024\] Halıcıoğlu Data Science Institute Undergraduate Tutor Excellence Award 
+**\[May 2024\]** Halıcıoğlu Data Science Institute Undergraduate Tutor Excellence Award 
 
 ---
