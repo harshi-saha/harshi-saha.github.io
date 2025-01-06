@@ -52,10 +52,10 @@ redirect_from:
 **Title:** Bioinformatics Research Assistant \
 **Organization:** Rana Lab [\[link\]](https://ranalab.ucsd.edu/) \
 **Location:** San Diego, CA	\
-**Duration:** Jan. 2023 – Present
+**Duration:** Jan. 2023 – June 2024
    * Designed and developed **scRNA-seq**, **Bulk RNA-Seq**, and **visualization** pipelines for immunology.
    * Created and optimized scripts in **Python**, **R**, and **Bash** to analyze **immune responses** to treatment \
-in **cancer** and **COVID-19** via cell **clustering**, type **labeling**, and **differential expression analysis** \
+in **cancer** and **COVID-19** via cell **clustering**, type **labeling**, and **differential expression analysis**.
    * Identified **novel COVID-19 mRNA vaccines** that increased immune cell diversity and population.
    * Discovered novel vaccine effects on **immune cells** in the **bone marrow** and **spleen** for publication.
    * Used packages **DESeq2**, **edgeR**, **topGO**, **clusterProfiler**, **Seurat**, **sctype**, **SoupX**, and **Harmony**.
@@ -64,14 +64,15 @@ in **cancer** and **COVID-19** via cell **clustering**, type **labeling**, and *
 **Title:** Data Science Instructional Assistant \
 **Organization:** UCSD - Halıcıoğlu Data Science Institute [\[link\]](https://datascience.ucsd.edu/) \
 **Location:** San Diego, CA	\
-**Duration:** Sep. 2022 – Present
-  * Assisted students by applying an understanding of **python**, **data science**, and **statistical data analysis**.
-  * Tutored for topics including **regression**, **hypothesis testing** using **bootstrapping**, and **A/B testing**. 
-  * Generated datasets and worked with staff to curate course materials via **JupyterHub** and **GitHub**.
-  * Helped students with coursework through weekly office hours, in group and individual settings.
+**Duration:** Sep. 2022 – June 2024
+  * Instructed **Principles**, **Practice and Application**, and **Theoretical Foundations of Data Science**.
+  * Provided support to over **2000** students across **6 quarters** with an average approval rating of **95%**.
+  * Assisted students by applying an understanding of **Python**, **data science**, and **statistical data analysis**.
+  * Tutored for topics including **machine learning**, hypothesis testing, bootstrapping, and **A/B testing**. 
+  * Held office hours and worked with staff to curate data and course materials using **Jupyter** and **Git**.
 <br/><br/>
 
-**Title:** Data Engineering Intern \
+**Title:** Data Science Intern \
 **Organization:** Infometry Inc. [\[link\]](https://www.infometry.net/) \
 **Location:** Fremont, CA	\
 **Duration:** June 2023 – Oct. 2023
@@ -97,7 +98,7 @@ in **cancer** and **COVID-19** via cell **clustering**, type **labeling**, and *
 ---
 
 **Title:** Computational Drug Discovery for HIV [\[link\]](https://github.com/harshi-saha/bioinfo-projects/tree/main/hiv-cdd-project) \
-**Duration:**  Sep. 2023 – Present
+**Duration:**  Sep. 2023 – Nov. 2023
   * Investigated compounds targeting CCR5 as part of HIV treatments using **Python** and **ChEMBLdb**.
   * Calculated Lipinski Molecular Descriptors to indicate **bioactivity** and pIC50 to indicate **efficacy**. 
   * Used **PaDEL** descriptors to identify properties and fingerprints of CCR5 targeting drug molecules.
