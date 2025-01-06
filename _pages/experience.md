@@ -11,14 +11,7 @@ redirect_from:
 
 ---
 
-**Education**
-
----
-
-**Degree:** B.S. in Bioinformatics w/ Data Science minor \
-**School:** University of California San Diego \
-**Duration:** 2020 - 2024 (expected) \
-**GPA:** 3.96/4.00 
+**Note:** 🔨 This page was last updated on 01/04/2025.
 
 ---
 
@@ -26,16 +19,33 @@ redirect_from:
 
 ---
 
-**Languages:** Python  \|  SQL  \|   R  \|  Java  \|  JavaScript  \|  Bash  \|  C++  \|  C \|  MATLAB  \|  HTML  
+**Languages:** Python  \|  R  \|   SQL  \|  Java  \|  C++  \|  C \|  Bash  \|  JavaScript \| HTML \| LaTeX  
 
-**Tools:** Git \| Jupyter \| HPC \| Snowflake \| Microsoft Power BI \| Microsoft Office
+**Tools:** Git \| Jupyter \| HPC \| Docker \| Snowflake \| Bioconductor
 
-**Packages:** pandas \| numpy \| scipy \| scikit-learn \| nltk \| seaborn \| matplotlib \| and more!
-
+**Packages:** pandas \| numpy \| matplotlib \| scikit-learn \| networkx \| ggplot2 \| dplyr \| tidyr \| caret \| and more!
 
 ---
 
-**Work experience**
+**Education**
+
+---
+
+**Degree:** M.S. in Computational Biology and Quantitative Genetics \
+**School:** Harvard University \
+**Duration:** Sep. 2024 - May 2026 \
+**GPA:** 4.00/4.00 
+
+---
+
+**Degree:** B.S. in Bioinformatics w/ Data Science minor \
+**School:** University of California San Diego \
+**Duration:** Sep. 2020 - June 2024 \
+**GPA:** 3.96/4.00 
+
+---
+
+**Experience**
 
 ---
 
@@ -109,14 +119,14 @@ redirect_from:
 
 ---
 
-**Service and Leadership**
+**Volunteer Experience**
 
 ---
 
 **Title:** Lead Youth Ambassador and Volunteer \
 **Organization:** Save The Child Foundation [\[link\]](https://www.savethechild.org/) \
 **Location:** Frisco, TX	\
-**Duration:** July 2016 – July 2020 
+**Duration:** July 2016 – Present 
   * Helped create biodegradable menstrual pads, distributed to India, Pakistan, Nepal, and Uganda.
   * Helped raise **two million dollars** for sustainability and female health and education initiatives in India.
   * Volunteered in India at homes for children with special needs, young orphans, and rape victims.
@@ -130,6 +140,14 @@ redirect_from:
   * Worked with teachers to instruct **62 students**, including native speakers of English and ESL students.
   * Independently ran animal dissection labs and taught relevant physiology and anatomy. 
   * Helped design and facilitate labs focused on microbiology, molecular biology, evolution, and chemistry.
-  * Created and graded assignments, proctored exams, and **taught lectures** in the absence of the teacher.
+  * Created and graded assignments, proctored exams, and **taught lectures** in the absence of teachers.
+
+---
+
+**Awards**
+
+---
+
+\[May 2024\] Halıcıoğlu Data Science Institute Undergraduate Tutor Excellence Award 
 
 ---

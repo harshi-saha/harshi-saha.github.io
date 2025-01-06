@@ -25,6 +25,7 @@ A list of all the pages and information found on this site.
   * Contains Experience
   * Contains Projects
   * Contains Volunteer Experience
+  * Contains Awards
 
 [Coursework](https://harshi-saha.github.io//coursework/)
   * Contains Relevant Coursework
