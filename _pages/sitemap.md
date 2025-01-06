@@ -20,19 +20,18 @@ A list of all the pages and information found on this site.
   * Contains CV
  
 [Experience](https://harshi-saha.github.io//experience/)
-  * Contains Education
   * Contains Skills
-  * Contains Work experience
+  * Contains Education
+  * Contains Experience
   * Contains Projects
-  * Contains Service and Leadership
+  * Contains Volunteer Experience
 
 [Coursework](https://harshi-saha.github.io//coursework/)
-  * Contains Unofficial Transcript
-  * Contains relevant coursework
+  * Contains Relevant Coursework
 
 [Teaching](https://harshi-saha.github.io//teaching/)
-  * Contains DSC 10 IA
-  * Contains DSC 40A IA
+  * Contains DSC IA
+  * Contains COGS IA
  
 [More](https://harshi-saha.github.io//more/)
   * Contains 'more about me'
