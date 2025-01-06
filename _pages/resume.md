@@ -11,7 +11,10 @@ redirect_from:
 
 ---
 
-Resume [\[link\]](/files/resume-harshi-saha.pdf) \
+Resume [\[link\]](/files/resume-harshi-saha.pdf) 
+
+---
+
 **Note:** 🔨 This file was last updated on 01/04/2025.
 
 ---
