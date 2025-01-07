@@ -87,10 +87,10 @@ in **cancer** and **COVID-19** via cell **clustering**, type **labeling**, and *
 **Organization:** Infometry Inc. [\[link\]](https://www.infometry.net/) \
 **Location:** Fremont, CA	\
 **Duration:** May 2020 – Sep. 2020 
-  * Gained hands-on experience with **SQL** to query, clean, and manipulate data for analysis and reporting purposes.
-  * Built interactive **Power BI** dashboards using **DAX** for visualizations and measures to drive business insights.
-  * Worked on **ETL** processes, using **SQL**, **Postgres**, and **Snowflake**, ensuring data integrity and quality for analysis.
-  * Collaborated with multiple departments to analyze **business cases** and design relevant data science **pipelines**.
+  * Gained experience with **SQL** to query, clean, and manipulate data for analysis and reporting purposes.
+  * Built interactive **Power BI** dashboards for visualizations and measures to drive business insights.
+  * Worked on **ETL** processes using **SQL**, **Postgres**, and **Snowflake** to ensure data integrity and quality.
+  * Collaborated with multiple departments to analyze **business cases** and design relevant **pipelines**.
     
 ---
 
