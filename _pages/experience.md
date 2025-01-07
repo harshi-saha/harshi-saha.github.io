@@ -132,9 +132,9 @@ in **cancer** and **COVID-19** via cell **clustering**, type **labeling**, and *
 
 **Title:** Phylogenetic analysis of Malarial strains [\[link\]](/files/phylogenetics-project.pdf) \
 **Duration:** May 2022 – June 2022 
-  * Developed custom **phylogenetic analysis** pipelines for 25 Plasmodium strains using **Bash**and **Python**.
+  * Developed custom **phylogenetic analysis** pipelines for 25 Plasmodium strains using **Bash** and **Python**.
   * Leveraged **web scraping**, **ClustalW**, and **RaxML** to reconstruct **phylogenetic trees** from the original paper.
-  * Reverse-engineered **software tools** and **parameters** in the paper by comparing outcomes and documenting discrepancies.
+  * Reverse-engineered paper **software tools** and **parameters**, comparing outcomes and documenting discrepancies.
   * Assessed original pipeline **limitations** and provided insights into **reproducibility** and result consistency.
 
 ---
