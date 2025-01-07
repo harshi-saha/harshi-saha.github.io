@@ -67,7 +67,7 @@ in **cancer** and **COVID-19** via cell **clustering**, type **labeling**, and *
 **Duration:** Sep. 2022 – June 2024
   * Instructed **Principles**, **Practice and Application**, and **Theoretical Foundations of Data Science**.
   * Provided support to over **2000** students across **6 quarters** with an average approval rating of **95%**.
-  * Assisted students by applying an understanding of **Python**, **data science**, and **statistical data analysis**.
+  * Assisted students by applying understanding of **Python**, **data science**, and **statistical data analysis**.
   * Tutored for topics including **machine learning**, hypothesis testing, bootstrapping, and **A/B testing**. 
   * Held office hours and worked with staff to curate data and course materials using **Jupyter** and **Git**.
 <br/><br/>
@@ -142,10 +142,10 @@ in **cancer** and **COVID-19** via cell **clustering**, type **labeling**, and *
 **Organization:** Monta Vista High School [\[link\]](https://mvhs.fuhsd.org/) \
 **Location:** Cupertino, CA	\
 **Duration:** Aug. 2017 – July 2020 
-  * Worked with teachers to instruct **62 students**, including native speakers of English and ESL students.
-  * Independently ran animal dissection labs and taught relevant physiology and anatomy. 
-  * Helped design and facilitate labs focused on microbiology, molecular biology, evolution, and chemistry.
-  * Created and graded assignments, proctored exams, and **taught lectures** in the absence of teachers.
+  * Collaborated with educators to instruct **62 students** including native English speakers and **ESL** students.
+  * Led animal dissection labs independently to teach **physiology** and **anatomy** through hands-on demonstrations. 
+  * Assisted in designing and conducting labs focused on microbiology, molecular biology, evolution, and chemistry.
+  * Created and graded assignments, proctored exams, and **taught lectures** in the absence of lead instructors.
 
 ---
 
