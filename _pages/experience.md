@@ -127,14 +127,15 @@ in **cancer** and **COVID-19** via cell **clustering**, type **labeling**, and *
 
 ---
 
-**Title:** Lead Youth Ambassador and Volunteer \
+**Title:** Lead Ambassador and Volunteer \
 **Organization:** Save The Child Foundation [\[link\]](https://www.savethechild.org/) \
 **Location:** Frisco, TX	\
 **Duration:** July 2016 – Present 
-  * Helped create biodegradable menstrual pads, distributed to India, Pakistan, Nepal, and Uganda.
-  * Helped raise **two million dollars** for sustainability and female health and education initiatives in India.
-  * Volunteered in India at homes for children with special needs, young orphans, and rape victims.
-  * Received two gold Presidential Volunteer Service awards for over **400 hours** of volunteer work.
+  * Developing a **coding** and **data science** program for women and girls in South Asia using **Python**.
+  * Creating data driven outreach and intervention programs to address **female health** in South Asia.
+  * Led the creation and distribution of **biodegradable pads** in underserved South Asian communities.
+  * Helped raise over **$2M** for female health, education, and sustainability initiatives focused on India.
+  * Worked with Indian organizations to care for children with special needs and **survivors of violence**.
 <br/><br/>
 
 **Title:** Biology Teaching Assistant \
