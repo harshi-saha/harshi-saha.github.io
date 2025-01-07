@@ -87,10 +87,10 @@ in **cancer** and **COVID-19** via cell **clustering**, type **labeling**, and *
 **Organization:** Infometry Inc. [\[link\]](https://www.infometry.net/) \
 **Location:** Fremont, CA	\
 **Duration:** May 2020 – Sep. 2020 
-  * Learned the basics of **data science** and **business intelligence** through sample data and case studies.
-  * Gained experience with **SQL** and **Power BI**, as well as with **database schematics**.
-  * Conducted **data analysis** by extracting, cleaning, and manipulating data to provide relevant insights.
-  * Helped fellow interns understand data science through presentations and analysis of business cases.
+  * Gained hands-on experience with **SQL** to query, clean, and manipulate data for analysis and reporting purposes.
+  * Built interactive **Power BI** dashboards using **DAX** for visualizations and measures to drive business insights.
+  * Worked on **ETL** processes, using **SQL**, **Postgres**, and **Snowflake**, ensuring data integrity and quality for analysis.
+  * Collaborated with multiple departments to analyze **business cases** and design data science **pipelines** to solve relevant problems.
     
 ---
 
