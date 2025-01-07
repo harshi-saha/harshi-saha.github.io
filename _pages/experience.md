@@ -50,7 +50,7 @@ redirect_from:
 ---
 
 **Title:** Bioinformatics Research Assistant \
-**Organization:** Rana Lab [\[link\]](https://ranalab.ucsd.edu/) \
+**Organization:** UCSD School of Medicine - Rana Lab [\[link\]](https://ranalab.ucsd.edu/) \
 **Location:** San Diego, CA	\
 **Duration:** Jan. 2023 – June 2024
    * Designed and developed **scRNA-seq**, **Bulk RNA-Seq**, and **visualization** pipelines for immunology.
@@ -76,10 +76,11 @@ in **cancer** and **COVID-19** via cell **clustering**, type **labeling**, and *
 **Organization:** Infometry Inc. [\[link\]](https://www.infometry.net/) \
 **Location:** Fremont, CA	\
 **Duration:** June 2023 – Oct. 2023
-  * Created **Snowflake stored procedures** using **SQL**, **Python**, and **JS** to automate **ELT** workflows. 
+  * Created **Snowflake stored procedures** using **SQL**, **Python**, and **JS** to automate **ELT** workflows.
   * Created pipelines using **Python** to clean and load data into Snowflake from local **Postgres** databases.
-  * Conducted **ad-hoc data** analysis using **Python** and **SQL** to provide relevant business insights.
-  * Identified critical **KPIs**, metrics, and **visualization** methods based on client data collection practices. 
+  * Conducted ad-hoc **data analysis** using **Python** and **SQL** to provide actionable business insights.
+  * Identified critical **KPIs**, metrics, and **visualization** methods based on client data collection practices.
+  * Used **Python**, **SQL**, and **Regex** to clean, transform, and structure raw data to **tidy data** for analysis.
 <br/><br/>
 
 **Title:** Data Science Intern \
