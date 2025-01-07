@@ -98,7 +98,7 @@ in **cancer** and **COVID-19** via cell **clustering**, type **labeling**, and *
 
 ---
 
-**Title:** Pancreatic Cancer Differential Expression and Network Analysis
+**Title:** Pancreatic Cancer Differential Expression and Network Analysis [\[link\]]() \
 **Duration:** Nov. 2024 – Dec. 2024
   * Analyzed **differential gene expression** in tumors vs. normal tissue using **TCGA** and **GTEx** data.
   * Performed **GSEA** with **GO** and **KEGG** to identify dysregulated biological processes and pathways.
@@ -106,7 +106,7 @@ in **cancer** and **COVID-19** via cell **clustering**, type **labeling**, and *
   * Identified **prognostic signatures** and potential **therapeutic targets** for early stage pancreatic cancer.
 <br/><br/>
 
-**Title:** Heart Attack and BMI Associations with Health Factors
+**Title:** Heart Attack and BMI Associations with Health Factors [\[link\]]() \
 **Duration:** Nov. 2024 – Dec. 2024
   * Analyzed **450,000** CDC 2022 **BRFSS** survey records using a variety of **machine learning** models.
   * Conducted data wrangling and **multiple imputation** with chained equations to handle missing data.
@@ -132,10 +132,10 @@ in **cancer** and **COVID-19** via cell **clustering**, type **labeling**, and *
 
 **Title:** Phylogenetic analysis of Malarial strains [\[link\]](/files/phylogenetics-project.pdf) \
 **Duration:** May 2022 – June 2022 
-  * Wrote a custom phylogenetic analysis pipeline for 25 strains of plasmodium using **Bash** and **Python**.
-  * Used **web scraping** and packages such as ClustalW and RaxML to generate several phylogenetic trees. 
-  * Made multiple pipelines to identify used software and parameters, unspecified in research papers.
-  * Recreated research paper outcomes and identified limitations and challenges of the pipeline used.
+  * Developed custom **phylogenetic analysis** pipelines for 25 Plasmodium strains using **Bash**and **Python**.
+  * Leveraged **web scraping**, **ClustalW**, and **RaxML** to reconstruct **phylogenetic trees** from the original paper.
+  * Reverse-engineered **software tools** and **parameters** in the paper by comparing outcomes and documenting discrepancies.
+  * Assessed original pipeline **limitations** and provided insights into **reproducibility** and result consistency.
 
 ---
 
