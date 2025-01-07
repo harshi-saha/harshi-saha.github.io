@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Harshi Saha"
 title_separator          : "-"
 name                     : &name "Harshi Saha"
-description              : &description "Bioinformatics + Data Science student @ UCSD"
+description              : &description "Computational Biology Student @ Harvard"
 url                      : https://harshi-saha.github.io/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "harshi-saha/harshi-saha.github.io"
