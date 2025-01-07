@@ -104,6 +104,7 @@ in **cancer** and **COVID-19** via cell **clustering**, type **labeling**, and *
   * Performed **GSEA** with **GO** and **KEGG** to identify dysregulated biological processes and pathways.
   * Conducted **network analysis** with **PANDA** and **KEGG** to explore gene interactions and pathways.
   * Identified **prognostic signatures** and potential **therapeutic targets** for early stage pancreatic cancer.
+<br/><br/>
 
 **Title:** Heart Attack and BMI Associations with Health Factors
 **Duration:** Nov. 2024 – Dec. 2024
@@ -111,7 +112,7 @@ in **cancer** and **COVID-19** via cell **clustering**, type **labeling**, and *
   * Conducted data wrangling and **multiple imputation** with chained equations to handle missing data.
   * Identified lifestyle factors and comorbidities associated with heart attack, BMI, and both conditions.
   * Applied **R** for statistical modeling, visualization, and ensuring reproducibility throughout the analysis.
-
+<br/><br/>
 
 **Title:** Computational Drug Discovery for HIV [\[link\]](https://github.com/harshi-saha/bioinfo-projects/tree/main/hiv-cdd-project) \
 **Duration:**  Sep. 2023 – Nov. 2023
