@@ -144,7 +144,7 @@ in **cancer** and **COVID-19** via cell **clustering**, type **labeling**, and *
 **Duration:** Aug. 2017 – July 2020 
   * Worked with teachers to instruct **62 students** including native English speakers and **ESL** students.
   * Led animal dissection labs to teach **physiology** and **anatomy** through hands-on demonstrations. 
-  * Designed and conducted labs focused on microbiology, molecular biology, evolution, and chemistry.
+  * Designed and conducted labs focused on **microbiology**, **molecular biology**, **evolution**, and **chemistry**.
   * Created and graded assignments, proctored exams, and taught in the absence of lead instructors.
 
 ---
