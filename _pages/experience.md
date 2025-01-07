@@ -90,7 +90,7 @@ in **cancer** and **COVID-19** via cell **clustering**, type **labeling**, and *
   * Gained hands-on experience with **SQL** to query, clean, and manipulate data for analysis and reporting purposes.
   * Built interactive **Power BI** dashboards using **DAX** for visualizations and measures to drive business insights.
   * Worked on **ETL** processes, using **SQL**, **Postgres**, and **Snowflake**, ensuring data integrity and quality for analysis.
-  * Collaborated with multiple departments to analyze **business cases** and design data science **pipelines** to solve relevant problems.
+  * Collaborated with multiple departments to analyze **business cases** and design relevant data science **pipelines**.
     
 ---
 
