@@ -98,20 +98,35 @@ in **cancer** and **COVID-19** via cell **clustering**, type **labeling**, and *
 
 ---
 
+**Title:** Pancreatic Cancer Differential Expression and Network Analysis
+**Duration:** Nov. 2024 – Dec. 2024
+  * Analyzed **differential gene expression** in tumors vs. normal tissue using **TCGA** and **GTEx** data.
+  * Performed **GSEA** with **GO** and **KEGG** to identify dysregulated biological processes and pathways.
+  * Conducted **network analysis** with **PANDA** and **KEGG** to explore gene interactions and pathways.
+  * Identified **prognostic signatures** and potential **therapeutic targets** for early stage pancreatic cancer.
+
+**Title:** Heart Attack and BMI Associations with Health Factors
+**Duration:** Nov. 2024 – Dec. 2024
+  * Analyzed **450,000** CDC 2022 **BRFSS** survey records using a variety of **machine learning** models.
+  * Conducted data wrangling and **multiple imputation** with chained equations to handle missing data.
+  * Identified lifestyle factors and comorbidities associated with heart attack, BMI, and both conditions.
+  * Applied **R** for statistical modeling, visualization, and ensuring reproducibility throughout the analysis.
+
+
 **Title:** Computational Drug Discovery for HIV [\[link\]](https://github.com/harshi-saha/bioinfo-projects/tree/main/hiv-cdd-project) \
 **Duration:**  Sep. 2023 – Nov. 2023
   * Investigated compounds targeting CCR5 as part of HIV treatments using **Python** and **ChEMBLdb**.
-  * Calculated Lipinski Molecular Descriptors to indicate **bioactivity** and pIC50 to indicate **efficacy**. 
+  * Calculated Lipinski Molecular Descriptors to indicate **bioactivity** and pIC50 to indicate **efficacy**.
   * Used **PaDEL** descriptors to identify properties and fingerprints of CCR5 targeting drug molecules.
-  * Developing **random forest models** to predict pIC50 and bioactivity to gauge structural efficacy.
+  * Developed **machine learning** models to predict pIC50 and bioactivity to gauge structural efficacy.
 <br/><br/>
 
 **Title:** Recipe interaction and rating prediction [\[link\]](/files/food-com-project.pdf) \
 **Duration:** Nov. 2022 – Dec. 2022
-  * Predicted interaction and rating given a user-recipe-id pair, using **880,000 data points** from Food.com.
-  * Conducted **EDA**, **feature engineering**, and made models combining heuristics, **regression**, and **NLP**.
-  * Prediction accuracy **0.977** and **0.711** compared to baseline 0.473 for interaction and rating respectively.
-  * Utilized python and tools including pandas, numpy, scipy, sklearn, nltk, seaborn, and matplotlib.
+  * Predicted user interaction and rating left by user given a user-recipe id pair, using **880,000** data points.
+  * Conducted **EDA**, feature engineering, and made models using **heuristics**, **regression**, and **NLP**.
+  * Resulted in accuracy of **0.977** and **0.711**, from baselines **0.457** for interaction and rating respectively.
+  * Utilized Python and tools including **pandas**, **numpy**, **scipy**, **sklearn**, **nltk**, **seaborn**, and **matplotlib**.
 <br/><br/>
 
 **Title:** Phylogenetic analysis of Malarial strains [\[link\]](/files/phylogenetics-project.pdf) \
@@ -144,7 +159,7 @@ in **cancer** and **COVID-19** via cell **clustering**, type **labeling**, and *
 **Duration:** Aug. 2017 – July 2020 
   * Worked with teachers to instruct **62 students** including native English speakers and **ESL** students.
   * Led animal dissection labs to teach **physiology** and **anatomy** through hands-on demonstrations. 
-  * Designed and conducted labs focused on **microbiology**, **molecular biology**, **evolution**, and **chemistry**.
+  * Designed and conducted labs focused on microbiology, molecular biology, evolution, and chemistry.
   * Created and graded assignments, proctored exams, and taught in the absence of lead instructors.
 
 ---
