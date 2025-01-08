@@ -98,7 +98,7 @@ in **cancer** and **COVID-19** via cell **clustering**, type **labeling**, and *
 
 ---
 
-**Title:** Pancreatic Cancer Differential Expression and Network Analysis [\[report\]](/files/BST280-Final-Project.html) [\[code\]](/files/BST280-Final-Project-Code.html) \
+**Title:** Pancreatic Cancer Differential Expression and Network Analysis [\[report\]](/files/BST280-Final-Project.html) [\[code\]](https://github.com/harshi-saha/bst280-final/tree/main/BST280_Final_Project) \
 **Duration:** Nov. 2024 – Dec. 2024
   * Analyzed **differential gene expression** in tumors vs. normal tissue using **TCGA** and **GTEx** data.
   * Performed **GSEA** with **GO** and **KEGG** to identify dysregulated biological processes and pathways.
@@ -106,7 +106,7 @@ in **cancer** and **COVID-19** via cell **clustering**, type **labeling**, and *
   * Identified **prognostic signatures** and potential **therapeutic targets** for early stage pancreatic cancer.
 <br/><br/>
 
-**Title:** Heart Attack and BMI Associations with Health Factors [\[report\]](/files/BST210-Final-Project.pdf) [\[code\]](/files/BST210-Final-Project-Code.pdf) \
+**Title:** Heart Attack and BMI Associations with Health Factors [\[report\]](/files/BST210-Final-Project.pdf) [\[code\]](https://github.com/harshi-saha/bst210-final) \
 **Duration:** Nov. 2024 – Dec. 2024
   * Analyzed **450,000** CDC 2022 **BRFSS** survey records using a variety of **machine learning** models.
   * Conducted data wrangling and **multiple imputation** with chained equations to handle missing data.
