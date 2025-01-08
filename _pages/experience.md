@@ -106,7 +106,7 @@ in **cancer** and **COVID-19** via cell **clustering**, type **labeling**, and *
   * Identified **prognostic signatures** and potential **therapeutic targets** for early stage pancreatic cancer.
 <br/><br/>
 
-**Title:** Heart Attack and BMI Associations with Health Factors [\[report\]](/files/BST210-Final-Project.pdf) [\[code\]]() \
+**Title:** Heart Attack and BMI Associations with Health Factors [\[report\]](/files/BST210-Final-Project.pdf) [\[code\]](/files/BST210-Final-Project-Code.pdf) \
 **Duration:** Nov. 2024 – Dec. 2024
   * Analyzed **450,000** CDC 2022 **BRFSS** survey records using a variety of **machine learning** models.
   * Conducted data wrangling and **multiple imputation** with chained equations to handle missing data.
@@ -122,7 +122,7 @@ in **cancer** and **COVID-19** via cell **clustering**, type **labeling**, and *
   * Developed **machine learning** models to predict pIC50 and bioactivity to gauge structural efficacy.
 <br/><br/>
 
-**Title:** Recipe interaction and rating prediction [\[report\]](/files/food-com-project.pdf) [\[code\]]() \
+**Title:** Recipe interaction and rating prediction [\[report\]](/files/food-com-project.pdf) [\[code\]](https://github.com/harshi-saha/cse158-assignments/tree/main/assignment-2) \
 **Duration:** Nov. 2022 – Dec. 2022
   * Predicted user interaction and rating left by user given a user-recipe id pair, using **880,000** data points.
   * Conducted **EDA**, feature engineering, and made models using **heuristics**, **regression**, and **NLP**.
@@ -130,7 +130,7 @@ in **cancer** and **COVID-19** via cell **clustering**, type **labeling**, and *
   * Utilized Python and tools including **pandas**, **numpy**, **scipy**, **sklearn**, **nltk**, **seaborn**, and **matplotlib**.
 <br/><br/>
 
-**Title:** Phylogenetic analysis of Malarial strains [\[report\]](/files/phylogenetics-project.pdf) [\[code\]]() \
+**Title:** Phylogenetic analysis of Malarial strains [\[report\]](/files/phylogenetics-project.pdf) [\[code\]](https://github.com/harshi-saha/cse185-final-project) \
 **Duration:** May 2022 – June 2022 
   * Developed custom **phylogenetic analysis** pipelines for 25 Plasmodium strains using **Bash** and **Python**.
   * Leveraged **web scraping**, **ClustalW**, and **RaxML** to reconstruct **phylogenetic trees** from the original paper.
