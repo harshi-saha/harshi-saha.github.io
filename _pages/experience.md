@@ -57,7 +57,7 @@ redirect_from:
    * Created and optimized scripts in **Python**, **R**, and **Bash** to analyze **immune responses** to treatment \
 in **cancer** and **COVID-19** via cell **clustering**, type **labeling**, and **differential expression analysis**.
    * Identified **novel COVID-19 mRNA vaccines** that increased immune cell diversity and population.
-   * Discovered novel vaccine effects on **immune cells** in the **bone marrow** and **spleen** for publication.
+   * Discovered novel vaccine effects on **immune cells** in bone marrow and spleen via **gene profiling**.
    * Used packages **DESeq2**, **edgeR**, **topGO**, **clusterProfiler**, **Seurat**, **sctype**, **SoupX**, and **Harmony**.
 <br/><br/>
 
@@ -76,7 +76,7 @@ in **cancer** and **COVID-19** via cell **clustering**, type **labeling**, and *
 **Organization:** Infometry Inc. [\[link\]](https://www.infometry.net/) \
 **Location:** Fremont, CA	\
 **Duration:** June 2023 – Oct. 2023
-  * Created **Snowflake stored procedures** using **SQL**, **Python**, and **JS** to automate **ELT** workflows.
+  * Created **Snowflake stored procedures** using **SQL**, **Python**, and **JS** to facilitate **ELT** workflows.
   * Created pipelines using **Python** to clean and load data into Snowflake from local **Postgres** databases.
   * Conducted ad-hoc **data analysis** using **Python** and **SQL** to provide actionable business insights.
   * Identified critical **KPIs**, metrics, and **visualization** methods based on client data collection practices.
