@@ -34,14 +34,14 @@ redirect_from:
 **Degree:** M.S. in Computational Biology and Quantitative Genetics \
 **School:** Harvard University \
 **Duration:** Sep. 2024 - May 2026 \
-**GPA:** 4.00/4.00 
+**Cumulative GPA:** 4.00/4.00 
 
 ---
 
 **Degree:** B.S. in Bioinformatics w/ Data Science minor \
 **School:** University of California San Diego \
 **Duration:** Sep. 2020 - June 2024 \
-**GPA:** 3.96/4.00 
+**Cumulative GPA:** 3.94/4.00 
 
 ---
 
