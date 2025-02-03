@@ -22,6 +22,7 @@ author_profile: true
 
 ---
 
+- EPI 293: Analysis of Genetic Association Studies [\[link\]](https://beta.my.harvard.edu/course/EPI293/2025-Winter/)
 - BST 280: Introductory Genomics and Bioinformatics for Health Research [\[link\]](https://beta.my.harvard.edu/course/BST280/2024-Fall/1)
 - BST 267: Introduction to Social and Biological Networks [\[link\]](https://beta.my.harvard.edu/course/BST267/2024-Fall/1)
 - BST 262: Computing for Big Data [\[link\]](https://beta.my.harvard.edu/course/BST262/2024-Fall/1)
