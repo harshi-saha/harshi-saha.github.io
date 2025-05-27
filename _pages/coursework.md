@@ -33,7 +33,7 @@ author_profile: true
 
 ---
 
-BMI 707: Deep Learning for Biomedical Data [\[link\]](https://dbmi.hms.harvard.edu/education/courses/bmi-707)
+- BMI 707: Deep Learning for Biomedical Data [\[link\]](https://dbmi.hms.harvard.edu/education/courses/bmi-707)
 
 ---
 
