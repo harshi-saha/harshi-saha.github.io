@@ -12,7 +12,7 @@ editor_options:
 
 ------------------------------------------------------------------------
 
-**All experiences listed below are for courses offered at the Harvard T.H. 
+**Experiences listed below are for courses offered at the Harvard T.H. 
 Chan School of Public Health of Harvard University, under employment by the 
 [Biostatistics Department](https://hsph.harvard.edu/department/biostatistics/). I have had the wonderful opportunity to work with instructor [Georg Hahn](https://hsph.harvard.edu/profile/georg-hahn/) and professor [Christoph Lange](https://hsph.harvard.edu/profile/christoph-lange/) as part of these courses.**
 
@@ -37,7 +37,7 @@ The course focuses on the implementation of data structures and algorithms to so
 
 ------------------------------------------------------------------------
 
-**All experiences listed below are for courses offered at the University
+**Experiences listed below are for courses offered at the University
 of California San Diego. The data science courses [DSC] are under employment by the [Halıcıoğlu
 Data Science Institute](https://datascience.ucsd.edu/), and the cognitive science 
 course [COGS] is under employment by the [Cognitive Science Department](https://cogsci.ucsd.edu/). I have had the wonderful opportunity to work with lecturers [Janine Tiefenbruck](https://datascience.ucsd.edu/people/janine-tiefenbruck/),
