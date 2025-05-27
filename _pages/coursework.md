@@ -18,15 +18,22 @@ author_profile: true
 ---
 
 **Relevant Coursework:** \
-**Note:** 🔨 This list was last updated on 01/04/2025.
+**Note:** 🔨 This list was last updated on 05/27/2025.
 
 ---
 
+- BST 282: Introduction to Computational Biology and Bioinformatics [\[link\]](https://beta.my.harvard.edu/course/BST282/2024-Spring/1)
+- BST 281: Genomic Data Manipulation [\[link\]](https://beta.my.harvard.edu/course/BST281/2024-Spring/1)
 - BST 280: Introductory Genomics and Bioinformatics for Health Research [\[link\]](https://beta.my.harvard.edu/course/BST280/2024-Fall/1)
 - BST 267: Introduction to Social and Biological Networks [\[link\]](https://beta.my.harvard.edu/course/BST267/2024-Fall/1)
 - BST 262: Computing for Big Data [\[link\]](https://beta.my.harvard.edu/course/BST262/2024-Fall/1)
 - BST 260: Introduction to Data Science [\[link\]](https://beta.my.harvard.edu/course/BST260/2024-Fall/1)
+- BST 221: Applied Data Structures and Algorithms [\[link\]](https://beta.my.harvard.edu/course/BST221/2024-Spring/1)
 - BST 210: Applied Regression Analysis [\[link\]](https://beta.my.harvard.edu/course/BST210/2024-Fall/1)
+
+---
+
+BMI 707: Deep Learning for Biomedical Data [\[link]\](https://dbmi.hms.harvard.edu/education/courses/bmi-707)
 
 ---
 
