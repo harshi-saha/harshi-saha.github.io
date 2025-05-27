@@ -12,17 +12,14 @@ editor_options:
 
 ------------------------------------------------------------------------
 
-All experiences listed below are for courses offered at the Harvard T.H. 
+**All experiences listed below are for courses offered at the Harvard T.H. 
 Chan School of Public Health of Harvard University, under employment by the 
-[Biostatistics Department](https://hsph.harvard.edu/department/biostatistics/).
-
-I have had the wonderful opportunity to work with instructor [Georg Hahn](https://hsph.harvard.edu/profile/georg-hahn/)
-and professor [Christoph Lange](https://hsph.harvard.edu/profile/christoph-lange/) as part of these courses.
+[Biostatistics Department](https://hsph.harvard.edu/department/biostatistics/). I have had the wonderful opportunity to work with instructor [Georg Hahn](https://hsph.harvard.edu/profile/georg-hahn/) and professor [Christoph Lange](https://hsph.harvard.edu/profile/christoph-lange/) as part of these courses.**
 
 ------------------------------------------------------------------------
 
 **BST 262 - Computing for Big Data:** 
-[[Fall 2 2025]](https://beta.my.harvard.edu/course/BST262/2025-Fall/1)
+[[Fall II 2025]](https://beta.my.harvard.edu/course/BST262/2025-Fall/1)
 
 **Course Description:** [[link]](https://beta.my.harvard.edu/course/BST262/2025-Fall/1)
 
@@ -40,14 +37,11 @@ The course focuses on the implementation of data structures and algorithms to so
 
 ------------------------------------------------------------------------
 
-All experiences listed below are for courses offered at the University
-of California San Diego.
-The data science courses [DSC] are under employment by the [Halıcıoğlu
+**All experiences listed below are for courses offered at the University
+of California San Diego. The data science courses [DSC] are under employment by the [Halıcıoğlu
 Data Science Institute](https://datascience.ucsd.edu/), and the cognitive science 
-course [COGS] is under employment by the [Cognitive Science Department](https://cogsci.ucsd.edu/).
-
-I have had the wonderful opportunity to work with lecturers [Janine Tiefenbruck](https://datascience.ucsd.edu/people/janine-tiefenbruck/),
-[Suraj Rampure](https://rampure.org/), and [Kyle Shannon](https://www.kmshannon.com/about/) as part of these courses.
+course [COGS] is under employment by the [Cognitive Science Department](https://cogsci.ucsd.edu/). I have had the wonderful opportunity to work with lecturers [Janine Tiefenbruck](https://datascience.ucsd.edu/people/janine-tiefenbruck/),
+[Suraj Rampure](https://rampure.org/), and [Kyle Shannon](https://www.kmshannon.com/about/) as part of these courses.**
 
 ------------------------------------------------------------------------
 
