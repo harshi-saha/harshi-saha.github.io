@@ -12,9 +12,5 @@ redirect_from:
 
 ---
 
-**Note:** 🔨 This page was last updated on 01/04/2025.
-
----
-
 
 ---
