@@ -51,7 +51,7 @@ author_profile: true
 
 ---
 
-**Degree:** B.S. in Bioinformatics w/ Data Science minor \
+**Degree:** B.S. in Bioinformatics w/ minor in Data Science \
 **School:** University of California San Diego \
 **Duration:** Sep. 2020 - Jun. 2024 \
 **Cumulative GPA:** 3.96/4.00 
