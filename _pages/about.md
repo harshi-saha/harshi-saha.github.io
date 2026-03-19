@@ -19,7 +19,7 @@ I completed my B.S. from the University of California San Diego, majoring in Bio
 
 My interests lie at the intersection of data science, healthcare, and biology. I am particularly passionate about developing algorithms and pipelines that use machine learning and bioinformatics to support target discovery, drug development, and the understanding of disease mechanisms.
 
-After the completion of my M.S. program at Harvard, I hope to pursue a career in industry.
+After the completion of my M.S. program, I hope to pursue a career in industry.
 
 ------------------------------------------------------------------------
 
