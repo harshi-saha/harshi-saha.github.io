@@ -21,7 +21,7 @@ Chan School of Public Health of Harvard University, under employment by the
 BST 262: Computing for Big Data [[description]](https://beta.my.harvard.edu/course/BST262/2025-Fall/1) \
 [[Fall II 2025]](https://beta.my.harvard.edu/course/BST262/2025-Fall/1) 
 
-This course will give a critical presentation of software implementations, theoretical/algorithmic software development, and modern software tools for data at scale. This will include R package development, software design and development, multiprocessing, cloud computing, container images, and an introduction to big data stacks. The course explores how big data influences several aspects of data science and how modern tools can be leveraged to work with data efficiently.
+This course will give a critical presentation of software implementations, theoretical/algorithmic software development, and modern software tools for data at scale. This includes R package development, software design and development, multiprocessing, cloud computing, container images, and an introduction to big data stacks. The course explores how big data influences several aspects of data science and how modern tools can be leveraged to work with data efficiently.
 
 ------------------------------------------------------------------------
 
