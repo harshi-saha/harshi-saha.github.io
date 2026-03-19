@@ -71,4 +71,14 @@ redirect_from:
   * Worked with Indian organizations to care for children with special needs and **survivors of violence**.
 <br/><br/>
 
+**Title:** Biology Teaching Assistant
+**Organization:** Monta Vista High School [link]
+**Location:** Cupertino, CA
+**Duration:** Aug. 2017 – July 2020
+
+  * Worked with teachers to instruct **62 students** including native English speakers and ESL students.
+  * Led animal dissection labs to teach **physiology** and **anatomy** through hands-on demonstrations.
+  * Designed and conducted labs focused on **microbiology**, **molecular biology**, evolution, and chemistry.
+  * Created and graded assignments, proctored exams, and taught in the absence of lead instructors.
+
 ---
