@@ -12,7 +12,13 @@ redirect_from:
 
 ## 🗣️ Languages
 
-Because my parents are from different cultures, and because I spent large part of my childhood in India even though I was born in America, learning languages has been central to my personal life. In addition to my first language of English, I am fluent in Hindi, Telugu, and Bengali. I also learnt Spanish in high school and am now moving on to learning Korean.
+Because my parents are from different cultures, and because I spent large part of my childhood in India even though I was born in America, learning languages has been central to my personal life and has grown into a strong interest. In addition to my first language, English, I am fluent in Hindi, Telugu, and Bengali. I also learned Spanish in high school and am now working on learning Korean and Chinese.
+
+---
+
+## 🧑‍🍳 Food and Drink
+
+Cooking is a hobby I engage in frequently, and some of my current go to dishes are Hayashi Rice, Chan Chan Yaki, Gaeng Garee, Rou Mo Qie Zi, and Chana Masala. While I do not go out to eat often, I love discovering spots that serve authentic regional dishes with my friends, and our favorite spots in Boston include Kaojiu, Yunnan Kitchen, and Yaowarat Road. I am also a big tea enthusiast, and right now my top 3 teas are Oolong, Genmaicha, and White Grape Jasmine Green Tea.
 
 ---
 
