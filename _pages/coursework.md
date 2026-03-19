@@ -17,7 +17,7 @@ author_profile: true
 
 ---
 
-**Relevant Coursework** \
+**Relevant Coursework** 
 
 ---
 
