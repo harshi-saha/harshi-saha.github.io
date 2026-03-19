@@ -12,32 +12,28 @@ editor_options:
 
 ------------------------------------------------------------------------
 
-**Experiences listed below are for courses offered at the Harvard T.H. 
+**Graduate Teaching Fellow experiences listed below are for courses offered at the Harvard T.H. 
 Chan School of Public Health of Harvard University, under employment by the 
 [Biostatistics Department](https://hsph.harvard.edu/department/biostatistics/). I have had the wonderful opportunity to work with instructor [Georg Hahn](https://hsph.harvard.edu/profile/georg-hahn/) and professor [Christoph Lange](https://hsph.harvard.edu/profile/christoph-lange/) as part of these courses.**
 
 ------------------------------------------------------------------------
 
-**BST 262 - Computing for Big Data:** 
-[[Fall II 2025]](https://beta.my.harvard.edu/course/BST262/2025-Fall/1)
-
-**Course Description:** [[link]](https://beta.my.harvard.edu/course/BST262/2025-Fall/1)
+BST 262: Computing for Big Data [[description]](https://beta.my.harvard.edu/course/BST262/2025-Fall/1) \
+Taught [[Fall II 2025]](https://beta.my.harvard.edu/course/BST262/2025-Fall/1) 
 
 This course will give a critical presentation of software implementations, theoretical/algorithmic software development, and modern software tools to collect, store, and process data at scale. This will include hands-on programming practice, R package development (with C++ integration), software design and good software development practice, multiprocessing with OpenMP, cloud computing on the Harvard computing cluster, container images (Docker), and an introduction to big data stacks. The course includes data manipulation, state of the art workflows for software design and dissemination, software tool selection, and maintenance. It explores how big data influences several aspects of data science (for instance, software development and data management) and how modern tools can be leveraged to work with data efficiently.
 
 ------------------------------------------------------------------------
 
-**BST 221 - Applied Data Structures and Algorithms:** 
+BST 221: Applied Data Structures and Algorithms [[description]](https://beta.my.harvard.edu/course/BST221/2026-Spring/1) \
 [[Spring 2026]](https://beta.my.harvard.edu/course/BST221/2026-Spring/1)
-
-**Course Description:** [[link]](https://beta.my.harvard.edu/course/BST221/2026-Spring/1)
 
 Introduction to important computational problems in biostatistics and state-of-the-art algorithms for solving them. 
 The course focuses on the implementation of data structures and algorithms to solve problems of practical relevance.
 
 ------------------------------------------------------------------------
 
-**Experiences listed below are for courses offered at the University
+**Undergraduate Teaching Assistant experiences listed below are for courses offered at the University
 of California San Diego. The data science courses [DSC] are under employment by the [Halıcıoğlu
 Data Science Institute](https://datascience.ucsd.edu/), and the cognitive science 
 course [COGS] is under employment by the [Cognitive Science Department](https://cogsci.ucsd.edu/). I have had the wonderful opportunity to work with lecturers [Janine Tiefenbruck](https://datascience.ucsd.edu/people/janine-tiefenbruck/),
@@ -45,10 +41,8 @@ course [COGS] is under employment by the [Cognitive Science Department](https://
 
 ------------------------------------------------------------------------
 
-**DSC 80 - The Practice and Application of Data Science:** 
+DSC 80: The Practice and Application of Data Science [[description]](https://catalog.ucsd.edu/courses/DSC.html#dsc80) \
 [[Winter 2024]](https://dsc-courses.github.io/dsc80-2024-wi/)
-
-**Course Description:** [[link]](https://catalog.ucsd.edu/courses/DSC.html#dsc80)
 
 This course bridges lower and upper-division data science courses 
 as well as methods in other fields. Students master the data science 
@@ -58,11 +52,8 @@ learning, visualization, and data systems.
 
 ------------------------------------------------------------------------
 
-**DSC 40A - Theoretical Foundations of Data Science I:** 
-[[Spring 2024]](https://dsc-courses.github.io/dsc40a-2024-sp/),
-[[Spring 2023]](https://dsc-courses.github.io/dsc40a-2023-sp/)
-
-**Course Description:** [[link]](https://catalog.ucsd.edu/courses/DSC.html#dsc40a)
+DSC 40A: Theoretical Foundations of Data Science I [[description]](https://catalog.ucsd.edu/courses/DSC.html#dsc40a) \
+[[Spring 2024]](https://dsc-courses.github.io/dsc40a-2024-sp/) and [[Spring 2023]](https://dsc-courses.github.io/dsc40a-2023-sp/)
 
 This course introduces fundamental topics in machine learning,
 statistics, and linear algebra with applications to data analysis. 
@@ -73,12 +64,8 @@ of data, and algorithmic problem solving.
 
 ------------------------------------------------------------------------
 
-**DSC 10 - Principles of Data Science:** 
-[[Fall 2023]](https://dsc-courses.github.io/dsc10-2023-fa/),
-[[Winter 2023]](https://dsc-courses.github.io/dsc10-2023-wi/),
-[[Fall 2022]](https://dsc-courses.github.io/dsc10-2022-fa/)
-
-**Course Description:** [[link]](https://catalog.ucsd.edu/courses/DSC.html#dsc10)
+DSC 10: Principles of Data Science [[description]](https://catalog.ucsd.edu/courses/DSC.html#dsc10)
+[[Fall 2023]](https://dsc-courses.github.io/dsc10-2023-fa/), [[Winter 2023]](https://dsc-courses.github.io/dsc10-2023-wi/), and [[Fall 2022]](https://dsc-courses.github.io/dsc10-2022-fa/)
 
 This introductory course develops computational thinking and tools
 necessary to answer questions that arise from large-scale datasets.
@@ -88,10 +75,8 @@ processing, modeling, and analysis.
 
 ------------------------------------------------------------------------
 
-**COGS 9 - Introduction to Data Science:** 
+COGS 9: Introduction to Data Science [[description]](https://catalog.ucsd.edu/courses/COGS.html#cogs9) \
 [[Spring 2024]](https://kshannon-ucsd.github.io/cogs9/)
-
-**Course Description:** [[link]](https://catalog.ucsd.edu/courses/COGS.html#cogs9)
 
 This course introduces key concepts in data science, exploring
 techniques such as data mining, text mining, machine learning, and
