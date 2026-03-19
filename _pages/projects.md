@@ -10,10 +10,21 @@ redirect_from:
 {% include base_path %}
 
 ---
+**Title:** Multimodal Perturbation Modeling for Mechanism of Action Prediction [\[report\]]() [\[code\]]()
+**Duration:** Sep. 2025 – Dec. 2025
+  * Integrating L1000 gene expression data with Cell Painting imaging data captured via Cell Profiler.
+  * Developing models using multimodal representation learning embeddings for MoA prediction.
+  * Using embeddings to characterize perturbation effects at the gene, pathway, and organelle levels. 
+  * ...
+<br/><br/>
 
-**Projects**
-
----
+**Title:** Deep Learning for Peripheral Blood Cell Classification [\[report\]]() [\[code\]]()
+**Duration:** Apr. 2025 – May 2025
+  * Developed ResNet models with 98.8% accuracy and 0.999 AUC, outperforming published baselines
+  * Conducted hyperparameter tuning and evaluated generalizability, maintaining high performance.
+  * Used attention mechanisms and applied Grad-CAM for interpretability, validating biological basis.
+  * ...
+<br/><br/>
 
 **Title:** Pancreatic Cancer Differential Expression and Network Analysis [\[report\]](/files/BST280-Final-Project.html) [\[code\]](https://github.com/harshi-saha/bst280-final/tree/main/BST280_Final_Project) \
 **Duration:** Nov. 2024 – Dec. 2024
@@ -54,30 +65,11 @@ redirect_from:
   * Reverse-engineered paper **software tools** and **parameters** by documenting outcomes and discrepancies.
   * Assessed original pipeline **limitations** and provided insights into **reproducibility** and result consistency.
 
----
-
-**Volunteer Experience**
-
----
-
-**Title:** Lead Ambassador and Volunteer \
-**Organization:** Save The Child Foundation [\[link\]](https://www.savethechild.org/) \
-**Location:** Frisco, TX	\
-**Duration:** July 2016 – Present 
-  * Developing a **coding** and **data science** program for women and girls in South Asia using **Python**.
-  * Creating data driven outreach and intervention programs to address **female health** in South Asia.
-  * Led the creation and distribution of **biodegradable pads** in underserved South Asian communities.
+**Title:** Lead Volunteer and Ambassador for Female Health and Wellbeing [\[organization\]](https://www.savethechild.org/) \
+**Duration:** July 2016 – June 2024
+  * Created data driven outreach and intervention programs to address **female health** in South Asia.
+  * Led the production and distribution of **biodegradable pads** in underserved South Asian communities.
   * Helped raise over **$2M** for female health, education, and sustainability initiatives focused on India.
-  * Worked with Indian organizations to care for children with special needs and **survivors of violence**.
-<br/><br/>
-
-**Title:** Biology Teaching Assistant \
-**Organization:** Monta Vista High School [link] \
-**Location:** Cupertino, CA \
-**Duration:** Aug. 2017 – July 2020
-  * Worked with teachers to instruct **62 students** including native English speakers and ESL students.
-  * Led animal dissection labs to teach **physiology** and **anatomy** through hands-on demonstrations.
-  * Designed and conducted labs focused on **microbiology**, **molecular biology**, evolution, and chemistry.
-  * Created and graded assignments, proctored exams, and taught in the absence of lead instructors.
+  * Worked with Indian organizations to care for girls with special needs and **survivors of sexual violence**.
 
 ---
