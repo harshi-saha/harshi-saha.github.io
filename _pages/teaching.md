@@ -12,8 +12,8 @@ editor_options:
 
 ------------------------------------------------------------------------
 
-**The Graduate Teaching Fellow experiences listed below are for courses offered at the Harvard T.H. 
-Chan School of Public Health, under employment by the Harvard [Department of Biostatistics](https://hsph.harvard.edu/department/biostatistics/). I have had the wonderful opportunity to work with instructor [Georg Hahn](https://hsph.harvard.edu/profile/georg-hahn/) and professor [Christoph Lange](https://hsph.harvard.edu/profile/christoph-lange/) as part of these courses.**
+**The Graduate Teaching Fellow experiences listed below are for courses offered by the Harvard T.H. 
+Chan School of Public Health at Harvard University, under employment by the [Department of Biostatistics](https://hsph.harvard.edu/department/biostatistics/). I have had the wonderful opportunity to work with instructor [Georg Hahn](https://hsph.harvard.edu/profile/georg-hahn/) and professor [Christoph Lange](https://hsph.harvard.edu/profile/christoph-lange/) as part of these courses.**
 
 ------------------------------------------------------------------------
 
@@ -32,7 +32,7 @@ The course focuses on the implementation of data structures and algorithms to so
 
 ------------------------------------------------------------------------
 
-**The Undergraduate Teaching Assistant experiences listed below are for courses offered at the University
+**The Undergraduate Teaching Assistant experiences listed below are for courses offered by the University
 of California San Diego. The DSC courses are under employment by the [Halıcıoğlu
 Data Science Institute](https://datascience.ucsd.edu/), and the COGS course is under employment by the [Cognitive Science Department](https://cogsci.ucsd.edu/). I have had the wonderful opportunity to work with lecturers [Janine Tiefenbruck](https://datascience.ucsd.edu/people/janine-tiefenbruck/),
 [Suraj Rampure](https://rampure.org/), and [Kyle Shannon](https://www.kmshannon.com/about/) as part of these courses. I am also grateful to have received the Halıcıoğlu Data Science Institute Undergraduate Excellence Award for my work.**
