@@ -64,7 +64,7 @@ of data, and algorithmic problem solving.
 
 ------------------------------------------------------------------------
 
-DSC 10: Principles of Data Science [[description]](https://catalog.ucsd.edu/courses/DSC.html#dsc10)
+DSC 10: Principles of Data Science [[description]](https://catalog.ucsd.edu/courses/DSC.html#dsc10) \
 [[Fall 2023]](https://dsc-courses.github.io/dsc10-2023-fa/), [[Winter 2023]](https://dsc-courses.github.io/dsc10-2023-wi/), and [[Fall 2022]](https://dsc-courses.github.io/dsc10-2022-fa/)
 
 This introductory course develops computational thinking and tools
