@@ -13,8 +13,7 @@ editor_options:
 ------------------------------------------------------------------------
 
 **The Graduate Teaching Fellow experiences listed below are for courses offered at the Harvard T.H. 
-Chan School of Public Health of Harvard University, under employment by the 
-[Biostatistics Department](https://hsph.harvard.edu/department/biostatistics/). I have had the wonderful opportunity to work with instructor [Georg Hahn](https://hsph.harvard.edu/profile/georg-hahn/) and professor [Christoph Lange](https://hsph.harvard.edu/profile/christoph-lange/) as part of these courses.**
+Chan School of Public Health, under employment by the Harvard [Biostatistics Department](https://hsph.harvard.edu/department/biostatistics/). I have had the wonderful opportunity to work with instructor [Georg Hahn](https://hsph.harvard.edu/profile/georg-hahn/) and professor [Christoph Lange](https://hsph.harvard.edu/profile/christoph-lange/) as part of these courses.**
 
 ------------------------------------------------------------------------
 
