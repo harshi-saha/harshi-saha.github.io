@@ -28,7 +28,7 @@ This course will give a critical presentation of software implementations, theor
 BST 221: Applied Data Structures and Algorithms [[description]](https://beta.my.harvard.edu/course/BST221/2026-Spring/1) \
 [[Spring 2026]](https://beta.my.harvard.edu/course/BST221/2026-Spring/1)
 
-Introduction to important computational problems in biostatistics and state-of-the-art algorithms for solving them. 
+This course introduces important computational problems in biostatistics and state-of-the-art algorithms for solving them. 
 The course focuses on the implementation of data structures and algorithms to solve problems of practical relevance.
 
 ------------------------------------------------------------------------
