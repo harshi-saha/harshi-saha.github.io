@@ -17,7 +17,6 @@ A list of all the pages and information found on this site.
 
 [Resume](https://harshi-saha.github.io//resume/)
   * Contains Resume
-  * Contains CV
  
 [Experience](https://harshi-saha.github.io//experience/)
   * Contains Skills
@@ -26,6 +25,9 @@ A list of all the pages and information found on this site.
   * Contains Projects
   * Contains Volunteer Experience
   * Contains Awards
+
+[Projects](https://harshi-saha.github.io//projects/)
+  * Contains Projects
 
 [Coursework](https://harshi-saha.github.io//coursework/)
   * Contains Relevant Coursework
