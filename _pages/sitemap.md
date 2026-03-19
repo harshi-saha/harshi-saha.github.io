@@ -21,7 +21,7 @@ A list of all the pages and information found on this site.
 [Experience](https://harshi-saha.github.io//experience/)
   * Contains Skills
   * Contains Education
-  * Contains Experience
+  * Contains Professional Experience
 
 [Projects](https://harshi-saha.github.io//projects/)
   * Contains Projects
