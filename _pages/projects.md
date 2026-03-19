@@ -10,6 +10,11 @@ redirect_from:
 {% include base_path %}
 
 ---
+
+**Coding Projects**
+
+---
+
 **Title:** Multimodal Perturbation Modeling for Mechanism of Action Prediction [\[report\]]() [\[code\]]() \
 **Duration:** Sep. 2025 – Dec. 2025
   * Integrating L1000 gene expression data with Cell Painting imaging data captured via Cell Profiler.
@@ -65,6 +70,12 @@ redirect_from:
   * Reverse-engineered paper **software tools** and **parameters** by documenting outcomes and discrepancies.
   * Assessed original pipeline **limitations** and provided insights into **reproducibility** and result consistency.
 <br/><br/>
+
+---
+
+**Outreach Projects**
+
+---
 
 **Title:** Lead Volunteer and Ambassador for Female Health and Wellbeing [\[organization\]](https://www.savethechild.org/) \
 **Duration:** July 2016 – June 2024
