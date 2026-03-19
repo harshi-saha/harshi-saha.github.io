@@ -50,7 +50,7 @@ redirect_from:
 ---
 
 **Title:** Computational Biology Graduate Research Assistant \
-**Organization:** Harvard University [\[Dr. Georg Hahn \]](https://www.cantab.net/users/ghahn/index.html) \
+**Organization:** Harvard Department of Biostatistics [\[Dr. Georg Hahn \]](https://www.cantab.net/users/ghahn/index.html) \
 **Location:** ...	\
 **Duration:** Aug. 2025 – Present
    * ...
@@ -61,7 +61,7 @@ redirect_from:
 <br/><br/>
 
 **Title:** Biostatistics Graduate Teaching Assistant \
-**Organization:** Harvard University Department of Biostatistics [\[link\]](https://hsph.harvard.edu/department/biostatistics/) \
+**Organization:** Harvard Department of Biostatistics [\[link\]](https://hsph.harvard.edu/department/biostatistics/) \
 **Location:** ...	\
 **Duration:** Oct. 2025 – Present
    * ...
