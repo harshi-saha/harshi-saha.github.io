@@ -18,7 +18,20 @@ author_profile: true
 ---
 
 **Relevant Coursework:** \
-**Note:** 🔨 This list was last updated on 05/27/2025.
+**Note:** 🔨 This list was last updated on 03/20/2026.
+
+---
+
+- MIT 6.8700: Advanced Computational Biology [\[link\]](https://catalog.mit.edu/subjects/6/)
+- MIT IDS.620: Principles and Practice of Drug Development [\[link\]](https://catalog.mit.edu/subjects/ids/)
+
+---
+
+- BMI 712: AI In Medical Imaging [\[link\]](https://dbmi.hms.harvard.edu/education/courses/bmi-712)
+- BMI 711: Integrative Analyses for Rare Genetic Disease Diagnostics [\[link\]](https://dbmi.hms.harvard.edu/education/courses/bmi-711)
+- BMI 710: Single-Cell Analysis for Functional Genomics of Disease [\[link\]](https://dbmi.hms.harvard.edu/education/courses/bmi-710)
+- BMI 707: Deep Learning for Biomedical Data [\[link\]](https://dbmi.hms.harvard.edu/education/courses/bmi-707)
+- NUT 235: Statistical Methods for Microbiome Data Analysis [\[link\]](https://beta.my.harvard.edu/course/NUT235/2026-Spring/1)
 
 ---
 
@@ -33,10 +46,6 @@ author_profile: true
 
 ---
 
-- BMI 707: Deep Learning for Biomedical Data [\[link\]](https://dbmi.hms.harvard.edu/education/courses/bmi-707)
-
----
-
 - EPI 293: Analysis of Genetic Association Studies [\[link\]](https://beta.my.harvard.edu/course/EPI293/2025-Winter/)
 - EPI 201: Epidemiologic Methods [\[link\]](https://beta.my.harvard.edu/course/EPI201/2024-Fall/1)
 
@@ -45,7 +54,7 @@ author_profile: true
 **Degree:** B.S. in Bioinformatics w/ Data Science minor \
 **School:** University of California San Diego \
 **Duration:** Sep. 2020 - Jun. 2024 \
-**Cumulative GPA:** 3.94/4.00 
+**Cumulative GPA:** 3.96/4.00 
 
 ---
 
@@ -79,9 +88,6 @@ author_profile: true
 - BICD 100: Genetics [\[link\]](https://catalog.ucsd.edu/courses/BIOL.html#bicd100)
 - BIBC 100: Structural Biochemistry [\[link\]](https://catalog.ucsd.edu/courses/BIOL.html#bibc100)
 - BENG 183: Applied Genomic Technologies [\[link\]](https://catalog.ucsd.edu/courses/BENG.html#beng183)
-
----
-
 - SIO 123: Microbial Environmental Systems Biology [\[link\]](https://catalog.ucsd.edu/courses/SIO.html#sio123)
 
 ---
