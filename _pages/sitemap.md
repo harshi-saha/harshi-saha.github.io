@@ -22,12 +22,10 @@ A list of all the pages and information found on this site.
   * Contains Skills
   * Contains Education
   * Contains Experience
-  * Contains Projects
-  * Contains Volunteer Experience
-  * Contains Awards
 
 [Projects](https://harshi-saha.github.io//projects/)
   * Contains Projects
+  * Contains Volunteer Experience
 
 [Coursework](https://harshi-saha.github.io//coursework/)
   * Contains Relevant Coursework
