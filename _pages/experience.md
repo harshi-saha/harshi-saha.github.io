@@ -50,7 +50,7 @@ redirect_from:
 ---
 
 **Title:** Computational Biology Graduate Research Assistant \
-**Organization:** Harvard University, [\[Dr. Georg Hahn \]](https://www.cantab.net/users/ghahn/index.html) \
+**Organization:** Harvard University [\[Dr. Georg Hahn \]](https://www.cantab.net/users/ghahn/index.html) \
 **Location:** ...	\
 **Duration:** Aug. 2025 – Present
    * ...
@@ -94,7 +94,7 @@ redirect_from:
 <br/><br/>
 
 **Title:** Bioinformatics Undergraduate Research Assistant \
-**Organization:** UCSD School of Medicine, [\[Dr. Tariq Rana \]](https://ranalab.ucsd.edu/) \
+**Organization:** UCSD School of Medicine [\[Dr. Tariq Rana \]](https://ranalab.ucsd.edu/) \
 **Location:** San Diego, CA	\
 **Duration:** Jan. 2023 – June 2024
    * Designed and developed **scRNA-seq**, **Bulk RNA-Seq**, and **visualization** pipelines for immunology.
