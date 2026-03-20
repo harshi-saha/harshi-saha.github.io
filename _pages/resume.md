@@ -11,7 +11,7 @@ redirect_from:
 
 ---
 
-Resume [\[link\]](/files/resume-harshi-saha.pdf) 
+You can view my resume [\[here!\]](/files/resume-harshi-saha.pdf) 
 
 ---
 
