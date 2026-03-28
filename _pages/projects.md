@@ -15,7 +15,7 @@ redirect_from:
 
 ---
 
-**Title:** Multimodal Perturbation Modeling for Mechanism of Action Prediction [\[report\]]() [\[code\]]() \
+**Title:** Multimodal Perturbation Modeling for Mechanism of Action Prediction [\[report\]](/files/MLCB_FinalReport.pdf) [\[code\]](https://github.com/harshi-saha/mlcb-project) \
 **Duration:** Sep. 2025 – Dec. 2025
   * Integrating L1000 gene expression data with Cell Painting imaging data captured via Cell Profiler.
   * Developing models using multimodal representation learning embeddings for MoA prediction.
@@ -23,7 +23,7 @@ redirect_from:
   * ...
 <br/><br/>
 
-**Title:** Deep Learning for Peripheral Blood Cell Classification [\[report\]]() [\[code\]]() \
+**Title:** Deep Learning for Peripheral Blood Cell Classification [\[report\]](/files/BMI707_FinalReport.pdf) [\[poster\]](/files/BMI707_FinalPoster.pptx.pdf) [\[code\]](https://github.com/harshi-saha/blood-medmnist) \
 **Duration:** Apr. 2025 – May 2025
   * Developed ResNet models with 98.8% accuracy and 0.999 AUC, outperforming published baselines
   * Conducted hyperparameter tuning and evaluated generalizability, maintaining high performance.
