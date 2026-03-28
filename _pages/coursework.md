@@ -26,7 +26,7 @@ author_profile: true
 
 ---
 
-- BMI 712: AI In Medical Imaging [\[link\]](https://dbmi.hms.harvard.edu/education/courses/bmi-712)
+- BMI 712: AI in Medical Imaging [\[link\]](https://dbmi.hms.harvard.edu/education/courses/bmi-712)
 - BMI 711: Integrative Analyses for Rare Genetic Disease Diagnostics [\[link\]](https://dbmi.hms.harvard.edu/education/courses/bmi-711)
 - BMI 710: Single-Cell Analysis for Functional Genomics of Disease [\[link\]](https://dbmi.hms.harvard.edu/education/courses/bmi-710)
 - BMI 707: Deep Learning for Biomedical Data [\[link\]](https://dbmi.hms.harvard.edu/education/courses/bmi-707)
