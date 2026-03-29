@@ -15,20 +15,20 @@ redirect_from:
 
 ---
 
-**Title:** Multimodal Perturbation Modeling for Mechanism of Action Prediction [\[report\]](/files/MLCB_FinalReport.pdf) [\[code\]](https://github.com/harshi-saha/mlcb-project) \
+**Title:** Multimodal Perturbation Modeling for MoA Prediction [\[report\]](/files/MLCB_FinalReport.pdf) [\[code\]](https://github.com/harshi-saha/mlcb-project) \
 **Duration:** Sep. 2025 – Dec. 2025
-  * Integrating L1000 gene expression data with Cell Painting imaging data captured via Cell Profiler.
-  * Developing models using multimodal representation learning embeddings for MoA prediction.
-  * Using embeddings to characterize perturbation effects at the gene, pathway, and organelle levels. 
-  * ...
+  * Generated **embeddings** for transcriptomic and cellular imaging data using **representation learning**.
+  * Combined representations with late fusion and refined multimodal embeddings via **contrastive loss**.
+  * Applied **KNN**, **MLP**, and **GMM** classifiers to evaluate embeddings and predict perturbation MoA.
+  * Quantified **model performance** across embedding aggregation and modality combination variations.
 <br/><br/>
 
 **Title:** Deep Learning for Peripheral Blood Cell Classification [\[report\]](/files/BMI707_FinalReport.pdf) [\[poster\]](/files/BMI707_FinalPoster.pptx.pdf) [\[code\]](https://github.com/harshi-saha/blood-medmnist) \
 **Duration:** Apr. 2025 – May 2025
-  * Developed ResNet models with 98.8% accuracy and 0.999 AUC, outperforming published baselines
-  * Conducted hyperparameter tuning and evaluated generalizability, maintaining high performance.
-  * Used attention mechanisms and applied Grad-CAM for interpretability, validating biological basis.
-  * ...
+  * Designed and trained **ResNet** based **CNN** architectures to predict blood cell classes from images.
+  * Final models achieved **98.8%** accuracy and **0.999** AUC which surpassed multiple published baselines.
+  * Conducted **hyperparameter tuning** and **evaluated generalizability** to ensure stable performance.
+  * Used **attention** mechanisms and applied Grad-CAM for **interpretability** to validate biological basis.
 <br/><br/>
 
 **Title:** Pancreatic Cancer Differential Expression and Network Analysis [\[report\]](/files/BST280-Final-Project.html) [\[code\]](https://github.com/harshi-saha/bst280-final/tree/main/BST280_Final_Project) \
@@ -36,7 +36,7 @@ redirect_from:
   * Analyzed **differential gene expression** in tumors vs. normal tissue using **TCGA** and **GTEx** data.
   * Performed **GSEA** with **GO** and **KEGG** to identify dysregulated biological processes and pathways.
   * Conducted **network analysis** with **PANDA** and **KEGG** to explore gene interactions and pathways.
-  * Identified **prognostic signatures** and potential **therapeutic targets** for early stage pancreatic cancer.
+  * Identified distinguishing signatures and validated key genes specific to **early stage** pancreatic cancer.
 <br/><br/>
 
 **Title:** Heart Attack and BMI Associations with Health Factors [\[report\]](/files/BST210-Final-Project.pdf) [\[code\]](https://github.com/harshi-saha/bst210-final) \
