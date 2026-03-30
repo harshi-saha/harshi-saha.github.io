@@ -11,7 +11,7 @@ redirect_from:
 
 ---
 
-**Note:** 🔨 This page was last updated on 01/04/2025.
+**Note:** 🔨 This page was last updated on 03/30/2026.
 
 ---
 
@@ -19,11 +19,11 @@ redirect_from:
 
 ---
 
-**Languages:** Python  \|  R  \|   SQL  \|  Java  \|  C++  \|  C \|  Bash  \|  JavaScript \| HTML \| LaTeX  
+**Languages:** Python  \|  Bash  \|   R  \|  SQL  \|  Java  \|  C++ \|  C  
 
-**Tools:** Git \| Jupyter \| HPC \| Docker \| Snowflake \| Bioconductor
+**Frameworks and Tools:** PyTorch \| TensorFlow \| Bioconductor \| Git \| Jupyter \| HPC \| Docker 
 
-**Packages:** pandas \| numpy \| matplotlib \| scikit-learn \| networkx \| ggplot2 \| dplyr \| tidyr \| caret \| and more!
+**Packages:** pandas \| NumPy \| SciPy \| scikit-learn \| matplotlib \| seaborn \| plotly \| statsmodels \| NetworkX \| dplyr \| tidyr \| ggplot2 \| caret \| and many more!
 
 ---
 
@@ -49,59 +49,55 @@ redirect_from:
 
 ---
 
-**Title:** Computational Biology Graduate Research Assistant \
+**Title:** Computational Biology Research Assistant \
 **Organization:** Harvard Department of Biostatistics [\[Dr. Georg Hahn \]](https://www.cantab.net/users/ghahn/index.html) \
-**Location:** ...	\
+**Location:** Boston, MA	\
 **Duration:** Aug. 2025 – Present
-   * ...
-   * ...
-   * ...
-   * ...
-   * ...
+   * Analyzing mitochondrial responses to **perturbations** using transcriptomic and cellular imaging data.
+   * Deriving mitochondrial metrics from image **segmentation features** to define morphological states.
+   * Integrating **transcriptomics**, drug chemical **structure**, and **MoA** to link expression and morphology.
+   * Building **multimodal models** using machine and deep learning to predict mitochondrial phenotypes.
+   * Developing pipelines to identify **signatures** driving mitochondrial fragmentation for target discovery.
 <br/><br/>
 
-**Title:** Biostatistics Graduate Teaching Assistant \
+**Title:** Biostatistics Graduate Teaching Fellow \
 **Organization:** Harvard Department of Biostatistics [\[link\]](https://hsph.harvard.edu/department/biostatistics/) \
-**Location:** ...	\
+**Location:** Boston, MA	\
 **Duration:** Oct. 2025 – Present
-   * ...
-   * ...
-   * ...
-   * ...
-   * ...
+   * Assisting in the courses **Computing for Big Data** and **Applied Data Structures and Algorithms**.
+   * Supporting over **100** graduate students across **2 semesters** via office hours and review sessions.
+   * Tutoring for **algorithm design** and **optimization**, **cloud computing**, and **package development**.
 <br/><br/>
 
 **Title:** Data Science Contractor \
 **Organization:** Novo Nordisk [\[link\]](https://www.novonordisk.com/) \
 **Location:** Lexington, MA	\
 **Duration:** Aug. 2025 – Dec. 2025
-   * ...
-   * ...
-   * ...
-   * ...
-   * ...
+   * Designed and developed pipelines to extract, process, and analyze **3D engineered** muscle tissue data.
+   * **Automated** workflows end to end to accelerate experimental analyses **70%** and enable novel insights.
+   * Extended and tested scripts across 3D engineered tissue types, supporting analyses **company wide**.
+   * Tested and enhanced platforms to run **segmentation** and **foundation models** on cell imaging data.
+   * Implemented modular **HPC** workflows with a focus on optimization, scalability, and generalizability.
 <br/><br/>
 
 **Title:** Data Science Intern \
 **Organization:** Novo Nordisk [\[link\]](https://www.novonordisk.com/) \
 **Location:** Lexington, MA	\
 **Duration:** June 2025 – Aug. 2025
-   * ...
-   * ...
-   * ...
-   * ...
-   * ...
+   * Created pipelines to benchmark **machine learning** models across high throughput **imaging** screens.
+   * Built automated scripts to identify perturbations inducing **significant cellular phenotype changes**.
+   * Compared **segmentation** features and **foundation model embeddings** in perturbation assessment.
+   * **Interpreted** foundation model embeddings via alignment with segmentation based imaging features.
 <br/><br/>
 
-**Title:** Bioinformatics Undergraduate Research Assistant \
+**Title:** Bioinformatics Research Assistant \
 **Organization:** UCSD School of Medicine [\[Dr. Tariq Rana \]](https://ranalab.ucsd.edu/) \
 **Location:** San Diego, CA	\
 **Duration:** Jan. 2023 – June 2024
-   * Designed and developed **scRNA-seq**, **Bulk RNA-Seq**, and **visualization** pipelines for immunology.
-   * Created and optimized scripts in **Python**, **R**, and **Bash** to analyze **immune responses** to treatment \
-in **cancer** and **COVID-19** via cell **clustering**, type **labeling**, and **differential expression analysis**.
-   * Identified **novel COVID-19 mRNA vaccines** that increased immune cell diversity and population.
-   * Discovered novel vaccine effects on **immune cells** in bone marrow and spleen via **gene profiling**.
+   * Designed and developed **scRNA-seq** and **bulk RNA-Seq** pipelines to quantify gene and pathway effects.
+   * Implemented scripts using Python, R, and Bash, to analyze responses to **miRNA** perturbations in **cancer**, \
+     and immune cell changes in the bone marrow and spleen induced by various **COVID-19** mRNA vaccines.
+   * Created and optimized workflows for cell **clustering**, **labeling**, **DE**, **GSEA**, and data **visualization**.
    * Used packages **DESeq2**, **edgeR**, **topGO**, **clusterProfiler**, **Seurat**, **sctype**, **SoupX**, and **Harmony**.
 <br/><br/>
 
@@ -120,11 +116,10 @@ in **cancer** and **COVID-19** via cell **clustering**, type **labeling**, and *
 **Organization:** Infometry Inc. [\[link\]](https://www.infometry.net/) \
 **Location:** Fremont, CA	\
 **Duration:** June 2023 – Oct. 2023
-  * Created **Snowflake stored procedures** using **SQL**, **Python**, and **JS** to facilitate **ELT** workflows.
-  * Created pipelines using **Python** to clean and load data into Snowflake from local **Postgres** databases.
-  * Conducted ad-hoc **data analysis** using **Python** and **SQL** to provide actionable business insights.
-  * Identified critical **KPIs**, metrics, and **visualization** methods based on client data collection practices.
-  * Used **Python**, **SQL**, and **Regex** to clean, transform, and structure raw data to **tidy data** for analysis.
+  * Developed Python workflows to clean, transform, and load data from **Postgres** into **Snowflake**.
+  * Built scalable **ELT** pipelines and Snowflake procedures in SQL and Python via Snowflake connector.
+  * **Automated** analytics workflows to compute **metrics** and generate insights across multiple datasets.
+  * Designed **dashboards** and **visualizations** to communicate key metrics and trends to stakeholders.
 <br/><br/>
 
 **Title:** Data Science Intern \
@@ -137,3 +132,5 @@ in **cancer** and **COVID-19** via cell **clustering**, type **labeling**, and *
   * Collaborated with multiple departments to analyze **business cases** and design relevant **pipelines**.
     
 ---
+
+
