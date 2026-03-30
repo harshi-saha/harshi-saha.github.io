@@ -60,15 +60,6 @@ redirect_from:
    * Developing pipelines to identify **signatures** driving mitochondrial fragmentation for target discovery.
 <br/><br/>
 
-**Title:** Biostatistics Graduate Teaching Fellow \
-**Organization:** Harvard Department of Biostatistics [\[link\]](https://hsph.harvard.edu/department/biostatistics/) \
-**Location:** Boston, MA	\
-**Duration:** Oct. 2025 – Present
-   * Assisting in the courses **Computing for Big Data** and **Applied Data Structures and Algorithms**.
-   * Supporting over **100** graduate students across **2 semesters** via office hours and review sessions.
-   * Tutoring for **algorithm design** and **optimization**, **cloud computing**, and **package development**.
-<br/><br/>
-
 **Title:** Data Science Contractor \
 **Organization:** Novo Nordisk [\[link\]](https://www.novonordisk.com/) \
 **Location:** Lexington, MA	\
@@ -101,17 +92,6 @@ redirect_from:
    * Used packages **DESeq2**, **edgeR**, **topGO**, **clusterProfiler**, **Seurat**, **sctype**, **SoupX**, and **Harmony**.
 <br/><br/>
 
-**Title:** Data Science Undergraduate Teaching Assistant \
-**Organization:** UCSD Halıcıoğlu Data Science Institute [\[link\]](https://datascience.ucsd.edu/) \
-**Location:** San Diego, CA	\
-**Duration:** Sep. 2022 – June 2024
-  * Instructed **Principles**, **Practice and Application**, and **Theoretical Foundations of Data Science**.
-  * Provided support to over **2000** students across **6 quarters** with an average approval rating of **95%**.
-  * Assisted students by applying understanding of **Python**, **data science**, and **statistical data analysis**.
-  * Tutored for topics including **machine learning**, hypothesis testing, bootstrapping, and **A/B testing**. 
-  * Held office hours and worked with staff to curate data and course materials using **Jupyter** and **Git**.
-<br/><br/>
-
 **Title:** Data Science Intern \
 **Organization:** Infometry Inc. [\[link\]](https://www.infometry.net/) \
 **Location:** Fremont, CA	\
@@ -131,6 +111,31 @@ redirect_from:
   * Worked on **ETL** processes using **SQL**, **Postgres**, and **Snowflake** to ensure data integrity and quality.
   * Collaborated with multiple departments to analyze **business cases** and design relevant **pipelines**.
     
+---
+
+**Teaching Experience**
+
+---
+
+**Title:** Biostatistics Graduate Teaching Fellow \
+**Organization:** Harvard Department of Biostatistics [\[link\]](https://hsph.harvard.edu/department/biostatistics/) \
+**Location:** Boston, MA	\
+**Duration:** Oct. 2025 – Present
+   * Assisting in the courses **Computing for Big Data** and **Applied Data Structures and Algorithms**.
+   * Supporting over **100** graduate students across **2 semesters** via office hours and review sessions.
+   * Tutoring for **algorithm design** and **optimization**, **cloud computing**, and **package development**.
+<br/><br/>
+
+**Title:** Data Science Undergraduate Teaching Assistant \
+**Organization:** UCSD Halıcıoğlu Data Science Institute [\[link\]](https://datascience.ucsd.edu/) \
+**Location:** San Diego, CA	\
+**Duration:** Sep. 2022 – June 2024
+  * Instructed **Principles**, **Practice and Application**, and **Theoretical Foundations of Data Science**.
+  * Provided support to over **2000** students across **6 quarters** with an average approval rating of **95%**.
+  * Assisted students by applying understanding of **Python**, **data science**, and **statistical data analysis**.
+  * Tutored for topics including **machine learning**, hypothesis testing, bootstrapping, and **A/B testing**. 
+  * Held office hours and worked with staff to curate data and course materials using **Jupyter** and **Git**.
+
 ---
 
 
