@@ -22,7 +22,7 @@ After the completion of my M.S. program, I hope to pursue a career in industry.
 
 ------------------------------------------------------------------------
 
-**Note:** 🔨 This website was last updated on 03/20/2026.\
+**Note:** 🔨 This website was last updated on 03/30/2026.\
 **Note:** 👷 This website is still under construction.
 
 ------------------------------------------------------------------------
