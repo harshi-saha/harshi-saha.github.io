@@ -23,7 +23,7 @@ redirect_from:
 
 **Frameworks and Tools:** PyTorch \| TensorFlow \| Bioconductor \| Git \| Jupyter \| HPC \| Docker 
 
-**Packages:** pandas \| NumPy \| SciPy \| scikit-learn \| matplotlib \| seaborn \| plotly \| statsmodels \| NetworkX \| dplyr \| tidyr \| ggplot2 \| caret \| and many more!
+**Packages:** pandas \| NumPy \| SciPy \| scikit-learn \| matplotlib \| seaborn \| dplyr \| tidyr \| ggplot2 \| and many more!
 
 ---
 
