@@ -11,10 +11,10 @@ redirect_from:
 
 ---
 
-You can view my resume [\[here!\]](/files/resume-harshi-saha.pdf) 
+You can view my resume [\[here!\]](/files/Resume_HarshiSaha.pdf) 
 
 ---
 
-**Note:** 🔨 This file was last updated on 01/04/2025.
+**Note:** 🔨 This file was last updated on 05/30/2026.
 
 ---
