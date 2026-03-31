@@ -21,7 +21,7 @@ redirect_from:
 
 **Languages:** Python  \|  Bash  \|   R  \|  SQL  \|  Java  \|  C++ \|  C  
 
-**Frameworks and Tools:** PyTorch \| TensorFlow \| Bioconductor \| Git \| Jupyter \| HPC \| Docker 
+**Frameworks and Tools:** PyTorch \| TensorFlow \| Bioconductor \| Git \| Jupyter \| HPC \| Docker \| Scrum
 
 **Packages:** pandas \| NumPy \| SciPy \| scikit-learn \| matplotlib \| seaborn \| dplyr \| tidyr \| ggplot2 \| and many more!
 
