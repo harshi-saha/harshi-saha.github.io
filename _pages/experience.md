@@ -49,17 +49,6 @@ redirect_from:
 
 ---
 
-**Title:** Computational Biology Research Assistant \
-**Organization:** Harvard Department of Biostatistics [\[Dr. Georg Hahn \]](https://www.cantab.net/users/ghahn/index.html) \
-**Location:** Boston, MA	\
-**Duration:** Aug. 2025 – Present
-   * Analyzing mitochondrial responses to **perturbations** using transcriptomic and cellular imaging data.
-   * Deriving mitochondrial metrics from image **segmentation features** to define morphological states.
-   * Integrating **transcriptomics**, drug chemical **structure**, and **MoA** to link expression and morphology.
-   * Building **multimodal machine learning** and **deep learning** models for mitochondrial phenotypes.
-   * Developing pipelines to identify **signatures** driving mitochondrial fragmentation for target discovery.
-<br/><br/>
-
 **Title:** Data Science Contractor \
 **Organization:** Novo Nordisk [\[link\]](https://www.novonordisk.com/) \
 **Location:** Lexington, MA	\
@@ -81,17 +70,6 @@ redirect_from:
    * **Interpreted** foundation model embeddings via alignment with segmentation based imaging features.
 <br/><br/>
 
-**Title:** Bioinformatics Research Assistant \
-**Organization:** UCSD School of Medicine [\[Dr. Tariq Rana \]](https://ranalab.ucsd.edu/) \
-**Location:** San Diego, CA	\
-**Duration:** Jan. 2023 – June 2024
-   * Designed and developed **scRNA-seq** and **bulk RNA-Seq** pipelines to quantify gene and pathway effects.
-   * Implemented scripts using Python, R, and Bash, to analyze responses to **miRNA** perturbations in **cancer**, \
-     and immune cell changes in the bone marrow and spleen induced by various **COVID-19** mRNA vaccines.
-   * Created and optimized workflows for cell **clustering**, **labeling**, **DE**, **GSEA**, and data **visualization**.
-   * Used packages **DESeq2**, **edgeR**, **topGO**, **clusterProfiler**, **Seurat**, **sctype**, **SoupX**, and **Harmony**.
-<br/><br/>
-
 **Title:** Data Science Intern \
 **Organization:** Infometry Inc. [\[link\]](https://www.infometry.net/) \
 **Location:** Fremont, CA	\
@@ -111,6 +89,33 @@ redirect_from:
   * Worked on **ETL** processes using **SQL**, **Postgres**, and **Snowflake** to ensure data integrity and quality.
   * Collaborated with multiple departments to analyze **business cases** and design relevant **pipelines**.
     
+---
+
+**Research Experience**
+
+---
+
+**Title:** Computational Biology Research Assistant \
+**Organization:** Harvard Department of Biostatistics [\[Dr. Georg Hahn \]](https://www.cantab.net/users/ghahn/index.html) \
+**Location:** Boston, MA	\
+**Duration:** Aug. 2025 – Present
+   * Analyzing mitochondrial responses to **perturbations** using transcriptomic and cellular imaging data.
+   * Deriving mitochondrial metrics from image **segmentation features** to define morphological states.
+   * Integrating **transcriptomics**, drug chemical **structure**, and **MoA** to link expression and morphology.
+   * Building **multimodal machine learning** and **deep learning** models for mitochondrial phenotypes.
+   * Developing pipelines to identify **signatures** driving mitochondrial fragmentation for target discovery.
+<br/><br/>
+
+**Title:** Bioinformatics Research Assistant \
+**Organization:** UCSD School of Medicine [\[Dr. Tariq Rana \]](https://ranalab.ucsd.edu/) \
+**Location:** San Diego, CA	\
+**Duration:** Jan. 2023 – June 2024
+   * Designed and developed **scRNA-seq** and **bulk RNA-Seq** pipelines to quantify gene and pathway effects.
+   * Implemented scripts using Python, R, and Bash, to analyze responses to **miRNA** perturbations in **cancer**, \
+     and immune cell changes in the bone marrow and spleen induced by various **COVID-19** mRNA vaccines.
+   * Created and optimized workflows for cell **clustering**, **labeling**, **DE**, **GSEA**, and data **visualization**.
+   * Used packages **DESeq2**, **edgeR**, **topGO**, **clusterProfiler**, **Seurat**, **sctype**, **SoupX**, and **Harmony**.
+
 ---
 
 **Teaching Experience**
