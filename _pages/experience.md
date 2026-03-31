@@ -56,7 +56,7 @@ redirect_from:
    * Analyzing mitochondrial responses to **perturbations** using transcriptomic and cellular imaging data.
    * Deriving mitochondrial metrics from image **segmentation features** to define morphological states.
    * Integrating **transcriptomics**, drug chemical **structure**, and **MoA** to link expression and morphology.
-   * Building **multimodal models** using machine and deep learning to predict mitochondrial phenotypes.
+   * Building **multimodal machine learning** and **deep learning** models for mitochondrial phenotypes.
    * Developing pipelines to identify **signatures** driving mitochondrial fragmentation for target discovery.
 <br/><br/>
 
@@ -66,7 +66,7 @@ redirect_from:
 **Duration:** Aug. 2025 – Dec. 2025
    * Designed and developed pipelines to extract, process, and analyze **3D engineered** muscle tissue data.
    * **Automated** workflows end to end to accelerate experimental analyses **70%** and enable novel insights.
-   * Extended and tested scripts across 3D engineered tissue types, supporting analyses **company wide**.
+   * Extended and tested scripts across **3D engineered** tissue types, supporting analyses **company wide**.
    * Tested and enhanced platforms to run **segmentation** and **foundation models** on cell imaging data.
    * Implemented modular **HPC** workflows with a focus on optimization, scalability, and generalizability.
 <br/><br/>
