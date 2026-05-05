@@ -45,7 +45,7 @@ redirect_from:
 
 ---
 
-**Professional Experience**
+**Work Experience**
 
 ---
 
@@ -68,26 +68,6 @@ redirect_from:
    * Built automated scripts to identify perturbations inducing **significant cellular phenotype changes**.
    * Compared **segmentation** features and **foundation model embeddings** in perturbation assessment.
    * **Interpreted** foundation model embeddings via alignment with segmentation based imaging features.
-<br/><br/>
-
-**Title:** Data Science Intern \
-**Organization:** Infometry Inc. [\[link\]](https://www.infometry.net/) \
-**Location:** Fremont, CA	\
-**Duration:** June 2023 – Oct. 2023
-  * Developed Python workflows to clean, transform, and load data from **Postgres** into **Snowflake**.
-  * Built scalable **ELT** pipelines and Snowflake procedures in SQL and Python via Snowflake connector.
-  * **Automated** analytics workflows to compute **metrics** and generate insights across multiple datasets.
-  * Designed **dashboards** and **visualizations** to communicate key metrics and trends to stakeholders.
-<br/><br/>
-
-**Title:** Data Science Intern \
-**Organization:** Infometry Inc. [\[link\]](https://www.infometry.net/) \
-**Location:** Fremont, CA	\
-**Duration:** May 2020 – Sep. 2020 
-  * Gained experience with **SQL** to query, clean, and manipulate data for analysis and reporting purposes.
-  * Built interactive **Power BI** dashboards for visualizations and measures to drive business insights.
-  * Worked on **ETL** processes using **SQL**, **Postgres**, and **Snowflake** to ensure data integrity and quality.
-  * Collaborated with multiple departments to analyze **business cases** and design relevant **pipelines**.
     
 ---
 
